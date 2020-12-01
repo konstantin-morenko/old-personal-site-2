@@ -1,16 +1,12 @@
----
-title: Содержание (Как написать книгу)
-keywords: howto, write, book, toc
-toc: false
-permalink: htwb_toc.html
-folder: howto-write-book
----
 
-* [От автора](/htwb_from_author.html)
-* [Введение](/htwb_intro.html)
-* [Подход, используемый в книге](/htwb_book_method.html)
+# Содержание
 
-## [Подготовка: что может пригодиться](/htwb_equipment.html) (В написании)
+* [Содержание](SUMMARY.md)
+* [От автора](from-author.md)
+* [Введение](intro.md)
+* [Подход, используемый в книге](book-method.md)
+
+## Подготовка: что может пригодиться
 
 * [Подход к качеству](quality-management.md)
 * [Умение излагать мысли на бумаге](writing-practice.md)
@@ -31,7 +27,7 @@ folder: howto-write-book
 * [Дневник](diary.md)
   * [Структура дневника](diary-structure.md)
 
-## [Разведка: куда идти и каким маршрутом](/htwb_route.html) (В написании)
+## Разведка: куда идти и каким маршрутом
 
 * [Только одна книга за раз](one-aim-at-once.md)
 * [Собственные усилия](own-efforts.md)
@@ -68,6 +64,7 @@ folder: howto-write-book
 * [Процесс и результат](process-result.md)
 * [Навыки, убеждения и ценности](skills-beliefs-values.md)
 * [Трудность с написанием текста](difficult-to-write.md)
+* [Привычка](habit)
 * [Мотивация](motivation.md)
 * [Когда хочется все бросить](want-to-quit.md)
   * [Бросить в начале](want-to-quit-beginning.md)
@@ -75,7 +72,7 @@ folder: howto-write-book
   * [Бросить в конце](want-to-quit-end.md)
   * [Если запутался](confused.md)
 
-## [В путь: процесс](/htwb_the_way.html) (В написании)
+## В путь: процесс
 
 * [О процессе](process.md)
 
@@ -147,7 +144,7 @@ folder: howto-write-book
 
 * [Обобщенный вид процесса написания книги](common-process.md)
 * Сувениры
-  * [План *этой* книги](/htwb_this_plan.md)
-  * [Отзыв автора](/htwb_author_feedback.md)
+  * [План *этой* книги](this-plan.md)
+  * [Отзыв автора](author-feedback.md)
   * [Обратная связь](feedback.md)
   * [Время написания этой книги](book-timeline.md)
