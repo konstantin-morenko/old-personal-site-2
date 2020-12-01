@@ -1,0 +1,8 @@
+- name: Тестовая колода
+  type: template
+  tags: hotkeys,words
+  items:
+  - date: 2020-11-26
+    version: 1.0.1
+    url: http://example.com
+    changelog: Изменения

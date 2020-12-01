@@ -1,0 +1,20 @@
+# This is your sidebar TOC. The sidebar code loops through sections here and provides the appropriate formatting.
+
+entries:
+- title: sidebar
+  product: Как написать книгу
+  version: 1.0.0
+  folders:
+
+  - title: Введение
+    output: web, pdf
+    folderitems:
+
+    - title: Аннотация
+      url: /htwb_index.html
+      output: web, pdf
+      type: homepage
+
+    - title: Введение
+      url: /htwb_intro.html
+      output: web, pdf

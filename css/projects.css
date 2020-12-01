@@ -1,0 +1,44 @@
+/* Card style */
+
+.project-card {
+    margin: 8px 16px;
+    padding: 8px 16px;
+    border: 2px solid black;
+    border-left: 8px solid black;
+    overflow: auto;
+}
+
+.project-card > .header {
+    float: left;
+    font-size: x-large;
+}
+
+.project-card > .state {
+    float: right;
+}
+
+.project-card > .description {
+    clear: both;
+}
+
+.project-card > .tags {
+    float: left;
+}
+
+
+/* Substyles for states */
+
+.project-card.current {
+    border-color: #008008;
+    background-color: #b3ffb7;
+}
+
+.project-card.idea {
+    border-color: #acb300;
+    background-color: #f9ff66;
+}
+
+.project-card.cancelled, .project-card.closed {
+    border-color: #b33100;
+    background-color: #ffc7b3;
+}

@@ -5,18 +5,170 @@ entries:
   levels: one
   folders:
 
-  - title: Products
+  - title: Сайт и я
     output: web
     folderitems:
-    - title: News
-      url: /news.html
+    - title: О чем этот сайт
+      url: /example.html
       output: web
-    - title: Theme instructions
-      url: /mydoc_introduction.html
+    - title: Обо мне
+      url: /example.html
       output: web
-    - title: Product 1
-      url: /p1_landing_page.html
+    - title: Исторический аспект в _data
+      url: /example.html
       output: web
-    - title: Product 2
-      url: /p2_landing_page.html
+    - title: Организация страниц
+      url: /site_organization.html
+      output: web
+    - title: Исходный шаблон темы оформления
+      external_url: https://idratherbewriting.com/documentation-theme-jekyll/index.html
+      output: web
+    - title: Мои модификации темы
+      url: /example.html
+      output: web
+    - title: Jekyll
+      external_url: https://jekyllrb.com/docs/home/
+      output: web
+    - title: Обратная связь
+      url: /example.html
+      output: web
+
+  - title: Наука
+    output: web
+    folderitems:
+    - title: О разделе
+      url: /science_landing.html
+      output: web
+    - title: Я как ученый
+      url: /example.html
+      output: web
+    - title: Список научных трудов
+      url: /example.html
+      output: web
+    - title: Список конференций
+      url: /example.html
+      output: web
+    - title: Шаблоны
+      url: /science_templates.html
+      output: web
+
+  - title: Образование
+    output: web
+    folderitems:
+    - title: МУ к КР "Стратегии коммерциализации инноваций"
+      url: /example.html
+      output: web
+    - title: Отзыв руководителя по результатам педагогической практики
+      url: /example.html
+      output: web
+    - title: Задание на курсовую работу (LaTeX)
+      url: /example.html
+      output: web
+    - title: Экзаменационные билеты (LaTeX)
+      url: /example.html
+      output: web
+
+  - title: Программы и программирование
+    output: web
+    folderitems:
+    - title: Я на GitHub
+      url: /example.html
+      output: web
+    - title: Я на StackExchage
+      url: /example.html
+      output: web
+    - title: Мои микроконтроллеры PIC
+      url: /example.html
+      output: web
+    - title: LaTeX
+      url: /example.html
+      output: web
+    - title: GIMP
+      url: /example.html
+      output: web
+    - title: Inkscape
+      url: /example.html
+      output: web
+    - title: Терминал (консоль) в Linux
+      url: /example.html
+      output: web
+    - title: Ubuntu
+      url: /example.html
+      output: web
+    - title: Emacs
+      url: /example.html
+      output: web
+
+  - title: Художественная литература
+    output: web
+    folderitems:
+    - title: БесСмертная
+      url: /example.html
+      output: web
+
+  - title: Заметки и наброски
+    output: web
+    folderitems:
+    - title: Ежедневный журнал
+      url: /example.html
+      output: web
+    - title: Стихи
+      url: /example.html
+      output: web
+    - title: Из старого блога
+      url: /example.html
+      output: web
+
+  - title: Иностранные языки
+    output: web
+    folderitems:
+    - title: Эсперанто
+      url: /example.html
+      output: web
+    - title: Английский
+      url: /example.html
+      output: web
+    - title: Французский
+      url: /example.html
+      output: web
+
+  - title: Бизнес-литература
+    output: web
+    folderitems:
+    - title: Как написать книгу
+      url: /example.html
+      output: web
+    - title: Эффективный стол
+      url: /example.html
+      output: web
+    - title: Электрические технологии, аккумуляторы и батареи
+      url: /example.html
+      output: web
+    - title: Записки об НЛП
+      url: /example.html
+      output: web
+    - title: Руководство по рисованию
+      url: /example.html
+      output: web
+    - title: Мнемотехника
+      url: /example.html
+      output: web
+
+  - title: Другие проекты
+    output: web
+    folderitems:
+    - title: Колоды для Anki
+      url: /other_anki_decks.html
+      output: web
+    - title: Рекомендую к прочтению
+      url: /example.html
+      output: web
+    - title: Время нещадно
+      url: /example.html
+      output: web
+    - title: Некоторые вехи моей жизни
+      url: /example.html
+      output: web
+    - title: Мои дипломы
+      url: /example.html
       output: web
