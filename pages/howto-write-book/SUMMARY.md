@@ -64,7 +64,6 @@
 * [Процесс и результат](process-result.md)
 * [Навыки, убеждения и ценности](skills-beliefs-values.md)
 * [Трудность с написанием текста](difficult-to-write.md)
-* [Привычка](habit)
 * [Мотивация](motivation.md)
 * [Когда хочется все бросить](want-to-quit.md)
   * [Бросить в начале](want-to-quit-beginning.md)
