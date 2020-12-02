@@ -1,5 +1,5 @@
 ---
-title: Подготовка: что может пригодится (Как написать книгу)
+title: "Подготовка: что может пригодится (Как написать книгу)"
 keywords: howto, write, book
 permalink: /htwb_useful.html
 folder: howto-write-book
