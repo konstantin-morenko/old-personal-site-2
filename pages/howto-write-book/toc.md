@@ -16,7 +16,7 @@ folder: howto-write-book
 * [Умение излагать мысли на бумаге](/htwb_writing_practice.html)
 * [Мозговой штурм](/htwb_brainstorm.html)
 * [Ментальные карты](/htwb_mindmaps.html)
-* [Набор на клавиатуре](skills.md#touch-typing)
+* [Полезные навыки](/htwb_skills.html)
 * [Команда обеспечения](/htwb_help_command.html)
 * [Блокнот](/htwb_notebook.html)
 * [Диктофон](recorder.md)
@@ -91,7 +91,7 @@ folder: howto-write-book
     * [Почему нужно уделять время всем видам работ](all-work-types.md)
   * [Сеанс писательской работы](writing-session.md)
     * [Настрой на работу](starting-work.md)
-      * [Фрирайтинг](freewriting.md)
+      * [Фрирайтинг](/htwb_freewriting.html)
     * [Большая цель](big-aim.md)
     * Работа с текстом
       * [Написание текста](text-writing.md)
@@ -105,6 +105,7 @@ folder: howto-write-book
         * [Проверка ссылок](links.md)
       * [«Язык» текста](/htwb_modal_types.md)
     * [Работа с командой обеспечения](group-session.md)
+      * [Динамическая команда](/htwb_dynamic_group.html)
     * [Перерывы во время работы](breaks.md)
     * Публикация
       * [Предварительная публикация](prepub.md)
