@@ -2,7 +2,7 @@
 title: Как написать книгу
 keywords: howto, write, book
 toc: false
-permalink: htwb_landing.html
+permalink: /htwb_landing.html
 folder: howto-write-book
 ---
 
