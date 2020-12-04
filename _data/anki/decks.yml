@@ -1,8 +1,8 @@
-- name: Тестовая колода
+- name: Горячие клавиши (шаблон)
   type: template
   tags: hotkeys,words
   items:
   - date: 2020-11-26
-    version: 1.0.1
-    url: http://example.com
-    changelog: Изменения
+    version: 1.0.0
+    url: https://yadi.sk/d/EwDDRL_m0863zQ
+    changelog: Новый шаблон
