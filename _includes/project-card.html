@@ -1,8 +1,12 @@
 <div class="project-card {{ project.state }}">
   <span class="header">
+    {% if project.link %}
     <a href="{{ project.link }}">
+    {% endif %}
       {{ project.name }}
+    {% if project.link %}
     </a>
+    {% endif %}
   </span><span class="state">{{ project.state }}</span>
   <p class="description">{{ project.description }}</p>
   <span class="tags">{{ project.tags }}</span>

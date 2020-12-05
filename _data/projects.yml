@@ -1,31 +1,40 @@
-- name: Полный список проектов
-  description: |
-    Список всех моих проектов на этом сайте.  Альтернатива для "карты сайта".
-  tags: web
-  link: /all-projects.html
-  state: current
-  updated: 2020-11-30
 
-- name: Список научных трудов
-  description: |
-    Список всех моих научных трудов в разных форматах.
-  tags: web,pdf
-  link: #
-  state: idea
-  updated: 2020-11-30
+- name: Наука
+  content:
 
-- name: Шаблоны для научной деятельности
-  description: |
-    Шаблоны, которые пригодятся для разных дел в области науки.
-  tags: word
-  link: /science_templates.html
-  state: idea
-  updated: 2020-11-30
+  - name: Список научных трудов
+    description: |
+      Список всех моих научных трудов в разных форматах.
+    tags: web,pdf
+    state: idea
+    updated: 2020-11-30
 
-- name: Как написать книгу
-  description: |
-    Полноценная книга о том, как подойти к этому процессу чтобы получить результат.
-  tags: book,web
-  link: /htwb_landing.html
-  state: idea
-  updated: 2020-12-01
+  - name: Шаблоны для научной деятельности
+    description: |
+      Шаблоны, которые пригодятся для разных дел в области науки.
+    tags: word
+    link: /science_templates.html
+    state: idea
+    updated: 2020-11-30
+
+- name: Другие проекты
+  content:
+
+  - name: Полный список проектов
+    description: |
+      Список всех моих проектов на этом сайте.  Альтернатива для "карты сайта".
+    tags: web
+    link: /all-projects.html
+    state: current
+    updated: 2020-11-30
+
+- name: Бизнес-литература
+  content:
+
+  - name: Как написать книгу
+    description: |
+      Полноценная книга о том, как подойти к этому процессу чтобы получить результат.
+    tags: book,web
+    link: /htwb_landing.html
+    state: idea
+    updated: 2020-12-01
