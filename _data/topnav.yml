@@ -17,4 +17,4 @@ topnav_dropdowns:
     - title: Книги
       folderitems:
         - title: Как написать книгу
-          url: htwb_landing.html
+          url: howto-write-book/landing.html

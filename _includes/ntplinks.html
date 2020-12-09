@@ -1,0 +1,16 @@
+<ul>
+  {% if page.nextlink %}
+    {% assign next = site.pages | where: "path", page.nextlink | first %}
+    <li><a href="{{ next.url }}">Далее: {{ next.title }}</a></li>
+  {% endif %}
+
+  {% if page.prevlink %}
+    {% assign prev = site.pages | where: "path", page.prevlink | first %}
+    <li><a href="{{ prev.url }}">Назад: {{ prev.title }}</a></li>
+  {% endif %}
+
+  {% if page.toclink %}
+    {% assign toc = site.pages | where: "path", page.toclink | first %}
+    <li><a href="{{ toc.url }}">К оглавлению</a></li>
+  {% endif %}
+</ul>

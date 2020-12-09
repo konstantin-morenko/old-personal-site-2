@@ -99,10 +99,13 @@ defaults:
 
   -
     scope:
-      path: "pages/howto-write-book"
+      path: "howto-write-book"
       type: "pages"
     values:
-      layout: "page"
+      toclink: howto-write-book/toc.md
+      layout: "book-page"
+      ntplinks: true
+      projectname: "Как написать книгу"
       comments: false
       search: true
       sidebar: howto_write_book_sidebar
