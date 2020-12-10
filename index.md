@@ -1,12 +1,18 @@
 ---
 title: Константин Моренко
-keywords: mydoc
-sidebar: home_sidebar
-toc: false
-permalink: /index.html
+keywords: 
 ---
 
-Просто титульная страница для моего сайта.
+[В настоящее время]({% post_url 2020-11-26-new-style-for-new-year %})
+сайт находится в стадии разработки.  Все проекты, которые когда-нибудь
+будут доступны, перечислены здесь.  Пока я занимаюсь тем, что размещаю
+все, что у меня уже есть.
 
-Мои проекты:
-- [Как написать книгу]({% link howto-write-book/landing.md %})
+## Переходы с другого доменного имени
+
+Если вы попали сюда с другого домена, то вот список того, что вы
+можете искать:
+- `howto-write-book.books.konstantin-morenko.ru`, Вы ищете [Как
+  написать книгу]({% link howto-write-book/landing.md %}).
+
+{% include all-projects.html %}

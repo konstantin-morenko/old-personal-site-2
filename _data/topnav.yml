@@ -3,18 +3,10 @@
 topnav:
 - title: Topnav
   items:
-    - title: GitHub
-      external_url: https://github.com/tomjoht/documentation-theme-jekyll
-    - title: News
+    - title: Новости
       url: /news
     - title: Все проекты
       url: /all-projects.html
 
 #Topnav dropdowns
-topnav_dropdowns:
-- title: Topnav dropdowns
-  folders:
-    - title: Книги
-      folderitems:
-        - title: Как написать книгу
-          url: howto-write-book/landing.html
+

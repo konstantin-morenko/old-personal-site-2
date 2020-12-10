@@ -8,14 +8,7 @@ permalink: /all-projects.html
 Полный список всех моих проектов.  В некотором смысле это "карта
 сайта".
 
-## Все проекты
-
-{% for sect in site.data.projects %}
-<h3>{{ sect.name }}</h3>
-{% for project in sect.content %}
-  {% include project-card.html %}
-{% endfor %}
-{% endfor %}
+{% include all-projects.html %}
 
 ## Структура и данные
 

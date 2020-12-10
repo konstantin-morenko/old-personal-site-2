@@ -1,0 +1,36 @@
+<h2>Список всех проектов</h2>
+
+{% for sect in site.data.projects %}
+<h3>{{ sect.name }}</h3>
+<ul class="list-group">
+  {% for project in sect.content %}
+    <li class="list-group-item">
+    <header>
+      <span>
+	    {% if project.state == 'idea' %}
+        <i class="fa fa-lightbulb-o"></i>
+	    {% elsif project.state == 'current' %}
+        <i class="fa fa-check"></i>
+		{% endif %}
+	  </span>
+    {% if project.mdlink %}
+    {% assign md = site.pages | where: "path", project.mdlink | first %}
+    <a href="{{ md.url }}">
+    {% elsif project.link %}
+    <a href="{{ project.link }}">
+    {% endif %}
+      {{ project.name }}
+    {% if project.link or project.mdlink%}
+    </a>
+    {% endif %}
+	</header>
+    <p><span>
+	  {% for t in project.tags %}
+	  <span class="badge bg-secondary">{{ t }}</span>
+	  {% endfor %}
+	  </span></p>
+    <p>{{ project.description }}</p>
+    </li>
+  {% endfor %}
+</ul>
+{% endfor %}

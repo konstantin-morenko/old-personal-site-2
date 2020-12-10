@@ -42,3 +42,9 @@
     border-color: #b33100;
     background-color: #ffc7b3;
 }
+
+/* Styles for unordered list of projects */
+
+.list-group-item > header {
+    font-size: large;
+}
