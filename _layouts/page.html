@@ -47,6 +47,10 @@ layout: default
 
     {% endif %}
 
+    {% if page.needupdate %}
+      {% include important.html content="Данный раздел находится в процессе написания" %}
+    {% endif %}
+
    {{content}}
 
     <div class="tags">
