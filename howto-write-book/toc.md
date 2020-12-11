@@ -13,7 +13,7 @@ ntplinks: false
 ## [Подготовка: что может пригодиться]({% link howto-write-book/equipment.md %})
 
 * [Подход к качеству]({% link howto-write-book/quality-management.md %})
-* [Умение излагать мысли на бумаге](/htwb_writing_practice.html)
+* [Умение излагать мысли на бумаге]({% link howto-write-book/writing-practice.md %})
 * [Мозговой штурм](/htwb_brainstorm.html)
 * [Ментальные карты](/htwb_mindmaps.html)
 * [Полезные навыки](/htwb_skills.html)
