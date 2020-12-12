@@ -8,7 +8,7 @@ search: exclude
 {% for page in site.pages %}
 {% unless page.search == "exclude" %}
 {
-"title": "{{ page.title | escape }}",
+"title": "{{ page.title | escape }}{% if page.projectname %} ({{page.projectname}}){% endif %}",
 "tags": "{{ page.tags }}",
 "keywords": "{{page.keywords}}",
 "url": "{{ page.url }}",
