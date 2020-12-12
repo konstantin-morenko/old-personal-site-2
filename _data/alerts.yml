@@ -1,8 +1,9 @@
-tip: '<div class="alert alert-success" role="alert"><i class="fa fa-check-square-o"></i> <b>Tip: </b>'
+advice: '<div class="alert alert-info" role="alert" markdown="1"><i class="fa fa-info-circle"></i> <b>Совет: </b>'
 exercise: '<div class="alert alert-success" role="alert" markdown="1"><i class="fa fa-check-square-o"></i> <b>Упражнение: </b>'
-note: '<div class="alert alert-info" role="alert"><i class="fa fa-info-circle"></i> <b>Note: </b>'
-important: '<div class="alert alert-warning" role="alert"><i class="fa fa-warning"></i> <b>Important: </b>'
-warning: '<div class="alert alert-danger" role="alert"><i class="fa fa-exclamation-circle"></i> <b>Warning: </b>'
+important: '<div class="alert alert-warning" role="alert" markdown="1"><i class="fa fa-warning"></i> <b>Important: </b>'
+note: '<div class="alert alert-info" role="alert" markdown="1"><i class="fa fa-info-circle"></i> <b>Note: </b>'
+tip: '<div class="alert alert-success" role="alert" markdown="1"><i class="fa fa-check-square-o"></i> <b>Tip: </b>'
+warning: '<div class="alert alert-danger" role="alert" markdown="1"><i class="fa fa-exclamation-circle"></i> <b>Warning: </b>'
 end: '</div>'
 
 callout_danger: '<div class="bs-callout bs-callout-danger">'
