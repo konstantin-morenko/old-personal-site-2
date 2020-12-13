@@ -16,7 +16,7 @@ ntplinks: false
 * [Умение излагать мысли на бумаге]({% link howto-write-book/writing-practice.md %})
 * [Мозговой штурм]({% link howto-write-book/brainstorm.md %})
 * [Ментальные карты]({% link howto-write-book/mindmaps.md %})
-* [Полезные навыки](/htwb_skills.html)
+* [Полезные навыки]({% link howto-write-book/skills.md %})
 * [Команда обеспечения]({% link howto-write-book/help-command.md %})
 * [Блокнот](/htwb_notebook.html)
 * [Диктофон](/htwb_recorder.html)
