@@ -14,8 +14,8 @@ ntplinks: false
 
 * [Подход к качеству]({% link howto-write-book/quality-management.md %})
 * [Умение излагать мысли на бумаге]({% link howto-write-book/writing-practice.md %})
-* [Мозговой штурм](/htwb_brainstorm.html)
-* [Ментальные карты](/htwb_mindmaps.html)
+* [Мозговой штурм]({% link howto-write-book/brainstorm.md %})
+* [Ментальные карты]({% link howto-write-book/mindmaps.md %})
 * [Полезные навыки](/htwb_skills.html)
 * [Команда обеспечения]({% link howto-write-book/help-command.md %})
 * [Блокнот](/htwb_notebook.html)
