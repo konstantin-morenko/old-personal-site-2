@@ -1,5 +1,5 @@
 ---
-title: Дневник (Как написать книгу)
+title: Дневник
 keywords: howto, write, book
 permalink: /htwb_diary.html
 folder: howto-write-book
