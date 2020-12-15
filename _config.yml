@@ -33,18 +33,18 @@ exclude:
   - vendor
 # these are the files and directories that jekyll will exclude from the build
 
-feedback_subject_line: Jekyll documentation theme
+feedback_subject_line: [konstantin-morenko.ru]
 
-# feedback_email: tomjoht@gmail.com
+feedback_email: web@konstantin-morenko.ru
 # used as a contact email for the Feedback link in the top navigation bar
 
 # feedback_disable: true
 # if you uncomment the previous line, the Feedback link gets removed
 
-# feedback_text: "Need help?"
+feedback_text: "Обратная связь"
 # if you uncomment the previous line, it changes the Feedback text
 
-# feedback_link: "http://helpy.io/"
+feedback_link: /feedback.html
 # if you uncomment the previous line, it changes where the feedback link points to
 
 highlighter: rouge
