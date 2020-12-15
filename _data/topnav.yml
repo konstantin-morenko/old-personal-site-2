@@ -4,7 +4,7 @@ topnav:
 - title: Topnav
   items:
     - title: Новости
-      url: /news
+      url: /news/landing.html
     - title: Все проекты
       url: /all-projects.html
 

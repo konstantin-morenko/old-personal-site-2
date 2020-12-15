@@ -1,7 +1,6 @@
 ---
 title: Новый стиль для нового года
 categories: update
-permalink: new-style-new-year.html
 tags: [news]
 ---
 

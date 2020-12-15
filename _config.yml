@@ -98,6 +98,7 @@ defaults:
       hide_sidebar: true
       sidebar: home_sidebar
       topnav: topnav
+      permalink: /news/:categories/:year-:month-:day-:title::output_ext
 
   -
     scope:

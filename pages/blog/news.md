@@ -1,8 +1,8 @@
 ---
-title: News
+title: Новости
 sidebar: home_sidebar
 keywords: news, blog, updates, release notes, announcements
-permalink: news.html
+permalink: /news/landing.html
 toc: false
 folder: news
 ---
@@ -12,7 +12,7 @@ folder: news
         {% for post in site.posts limit:10 %}
 
 
-    <h2><a class="post-link" href="{{ post.url | remove: "/" }}">{{ post.title }}</a></h2>
+    <h2><a class="post-link" href="{{ post.url }}">{{ post.title }}</a></h2>
         <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }} /
             {% for tag in post.tags %}
 
@@ -26,7 +26,7 @@ folder: news
         <p><a href="feed.xml" class="btn btn-primary navbar-btn cursorNorm" role="button">RSS Subscribe{{tag}}</a></p>
 
 <hr />
-        <p>See more posts from the <a href="news_archive.html">News Archive</a>. </p>
+        <p markdown="1">Больше постов в [архиве]({% link pages/blog/news_archive.md %}).</p>
 
     </div>
 </div>

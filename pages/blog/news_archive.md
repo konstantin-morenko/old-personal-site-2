@@ -1,8 +1,8 @@
 ---
-title: News
+title: Архив новостей
 sidebar: mydoc_sidebar
 keywords: news, blog, updates, release notes, announcements
-permalink: news_archive.html
+permalink: /news/archive.html
 toc: false
 folder: news
 ---
@@ -13,7 +13,7 @@ folder: news
 
 
     <section id="archive">
-        <h3>This year's posts</h3>
+        <h3>В этом году</h3>
         {%for post in site.posts %}
         {% unless post.next %}
         <ul class="this">
@@ -26,7 +26,7 @@ folder: news
         <ul class="past">
             {% endif %}
             {% endunless %}
-            <li><time>{{ post.date | date:"%d %b" }}</time><a href="{{ post.url | remove: "/"}}">{{ post.title }}</a></li>
+            <li><time>{{ post.date | date:"%d %b" }}</time><a href="{{ post.url }}">{{ post.title }}</a></li>
             {% endfor %}
         </ul>
     </section>
