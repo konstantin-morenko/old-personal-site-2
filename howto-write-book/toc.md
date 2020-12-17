@@ -24,9 +24,11 @@ ntplinks: false
   * [Интернет]({% link howto-write-book/internet.md %})
   * [Программа для работы с текстом]({% link
     howto-write-book/text-processor.md %})
-    * [Функция поиска](/htwb_searching.html)
-    * [Проверка правописания](/htwb_spellchecking.html)
-    * [Формирование оглавления](/htwb_making_toc.html)
+    * [Функция поиска]({% link howto-write-book/searching.md %})
+    * [Проверка правописания]({% link
+      howto-write-book/spellchecking.md %})
+    * [Формирование оглавления]({% link howto-write-book/making-toc.md
+      %})
     * [Структурирование текста](/htwb_text_structure.html)
   * [Программа для работы с изображениями](/htwb_image_processor.html)
   * [Электронные средства контроля версий файлов](/htwb_versions.html)
