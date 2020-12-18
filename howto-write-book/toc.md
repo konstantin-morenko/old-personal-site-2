@@ -29,11 +29,14 @@ ntplinks: false
       howto-write-book/spellchecking.md %})
     * [Формирование оглавления]({% link howto-write-book/making-toc.md
       %})
-    * [Структурирование текста](/htwb_text_structure.html)
-  * [Программа для работы с изображениями](/htwb_image_processor.html)
-  * [Электронные средства контроля версий файлов](/htwb_versions.html)
-* [Дневник](/htwb_diary.html)
-  * [Структура дневника](/htwb_diary_structure.html)
+    * [Структурирование текста]({% link
+      howto-write-book/text-structure.md %})
+  * [Программа для работы с изображениями]({% link
+    howto-write-book/image-processor.md %})
+  * [Электронные средства контроля версий файлов]({% link
+    howto-write-book/versions.md %})
+* [Дневник]({% link howto-write-book/diary.md %})
+  * [Структура дневника]({% link howto-write-book/diary-structure.md %})
 
 ## [Разведка: куда идти и каким маршрутом](/htwb_route.html) (В написании)
 
@@ -160,6 +163,7 @@ ntplinks: false
   * [Прямая коммерциализация](commerc-direct.md)
   * [Косвенная коммерциализация](commers-indirect.md)
   * [Побочные выгоды](side-effects.md)
+* [Файлы]({% link howto-write-book/files.md %})
 
 ## Конечная точка: заключение
 
