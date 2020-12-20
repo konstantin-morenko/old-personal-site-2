@@ -32,11 +32,11 @@ ntplinks: false
 * [Дневник]({% link howto-write-book/diary.md %})
   * [Структура дневника]({% link howto-write-book/diary-structure.md %})
 
-## [Разведка: куда идти и каким маршрутом](/htwb_route.html) (В написании)
+## [Разведка: куда идти и каким маршрутом]({% link howto-write-book/route.md %})
 
 * [Зачем книга]({% link howto-write-book/why-book.md %})
-* [Только одна книга за раз](/htwb_one_aim_at_once.html)
-* [Собственные усилия](/htwb_own_efforts.md)
+* [Только одна книга за раз]({% link howto-write-book/one-aim-at-once.md %})
+* [Собственные усилия]({% link howto-write-book/own-efforts.md %})
   * [Рефлексия собственного опыта](/htwb_exp_reflection.html)
 * [Книга как проект](/htwb_project.html)
 * [Сложный процесс](complex.md)

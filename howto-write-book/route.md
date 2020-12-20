@@ -1,12 +1,8 @@
 ---
-title: "Разведка: куда идти и каким маршрутом (Как написать книгу)"
-keywords: howto, write, book
-permalink: /htwb_image_processing.html
+title: "Разведка: куда идти и каким маршрутом"
 folder: howto-write-book
+nextlink: howto-write-book/why-book.md
+prevlink: howto-write-book/diary-structure.md
+last_updated: 2020-12-20
+needupdate: [Написать текст]
 ---
-
-{% include note.html content="Раздел находится в процессе написания." %}
-
-- [Далее: Только одна книга за раз](/htwb_one_aim_at_once.html)
-- [Назад: Структура дневника](/htwb_diary_structure.html)
-- [К содержанию](/htwb_toc.html)

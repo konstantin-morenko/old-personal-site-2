@@ -1,9 +1,17 @@
 ---
 title: Зачем книга
-keywords: howto, write, book
 folder: howto-write-book
 nextlink: howto-write-book/one-aim-at-once.md
 prevlink: howto-write-book/route.md
+needupdate: [Написать текст]
 ---
 
-{% include note.html content="Раздел находится в процессе написания." %}
+## «Другие говорят, что у меня получится»
+
+## «Зарабатывать»
+
+## «Научиться чему-то новому»
+
+## «Мне есть что рассказать миру»
+
+## Составная причина
