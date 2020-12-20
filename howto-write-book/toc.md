@@ -22,19 +22,13 @@ ntplinks: false
 * [Диктофон]({% link howto-write-book/recorder.md %})
 * [Компьютер]({% link howto-write-book/pc.md %})
   * [Интернет]({% link howto-write-book/internet.md %})
-  * [Программа для работы с текстом]({% link
-    howto-write-book/text-processor.md %})
+  * [Программа для работы с текстом]({% link howto-write-book/text-processor.md %})
     * [Функция поиска]({% link howto-write-book/searching.md %})
-    * [Проверка правописания]({% link
-      howto-write-book/spellchecking.md %})
-    * [Формирование оглавления]({% link howto-write-book/making-toc.md
-      %})
-    * [Структурирование текста]({% link
-      howto-write-book/text-structure.md %})
-  * [Программа для работы с изображениями]({% link
-    howto-write-book/image-processor.md %})
-  * [Электронные средства контроля версий файлов]({% link
-    howto-write-book/versions.md %})
+    * [Проверка правописания]({% link howto-write-book/spellchecking.md %})
+    * [Формирование оглавления]({% link howto-write-book/making-toc.md %})
+    * [Структурирование текста]({% link howto-write-book/text-structure.md %})
+  * [Программа для работы с изображениями]({% link howto-write-book/image-processor.md %})
+  * [Электронные средства контроля версий файлов]({% link howto-write-book/versions.md %})
 * [Дневник]({% link howto-write-book/diary.md %})
   * [Структура дневника]({% link howto-write-book/diary-structure.md %})
 
@@ -173,3 +167,9 @@ ntplinks: false
   * [Отзыв автора](/htwb_author_feedback.md)
   * [Обратная связь](feedback.md)
   * [Время написания этой книги](book-timeline.md)
+
+{::comment}
+;;; Local Variables:
+;;; auto-fill-function: nil
+;;; End:
+{:/comment}
