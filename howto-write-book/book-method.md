@@ -5,7 +5,7 @@ toc: false
 folder: howto-write-book
 nextlink: howto-write-book/equipment.md
 prevlink: howto-write-book/intro.md
-needupdate: true
+needupdate: [Ссылка на писательский курс]
 ---
 
 И Вам и мне всегда хотелось бы сделать свою собственную жизнь проще,

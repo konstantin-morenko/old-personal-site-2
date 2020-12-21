@@ -4,7 +4,7 @@ keywords: howto, write, book
 toc: false
 folder: howto-write-book
 nextlink: howto-write-book/intro.md
-needupdate: true
+needupdate: [Ссылка на принципы Sharing]
 ---
 
 Написать книгу --- это приключение или адский труд?  Все мы знаем о

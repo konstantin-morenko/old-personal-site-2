@@ -4,7 +4,7 @@ keywords: писать, излагать, мышление
 folder: howto-write-book
 nextlink: howto-write-book/brainstorm.md
 prevlink: howto-write-book/quality-management.md
-needupdate: true
+needupdate: [Добавить ссылку на интервальный метод, Перечитать]
 ---
 
 Когда начинаешь писать книгу, успех во многом определяется не только

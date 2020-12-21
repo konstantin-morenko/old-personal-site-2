@@ -4,7 +4,7 @@ keywords: howto, write, book
 folder: howto-write-book
 nextlink: howto-write-book/writing-practice.md
 prevlink: howto-write-book/equipment.md
-needupdate: true
+needupdate: [Схема принципов качества]
 ---
 
 Очень давно в Японии и США стартовала программа по награждению
