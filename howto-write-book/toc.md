@@ -37,10 +37,11 @@ ntplinks: false
 * [Зачем книга]({% link howto-write-book/why-book.md %})
 * [Только одна книга за раз]({% link howto-write-book/one-aim-at-once.md %})
 * [Собственные усилия]({% link howto-write-book/own-efforts.md %})
-  * [Рефлексия собственного опыта](/htwb_exp_reflection.html)
-* [Книга как проект](/htwb_project.html)
-* [Сложный процесс](complex.md)
-* [Определенный срок](time-bound.md)
+  * [Рефлексия собственного опыта]({% link howto-write-book/exp-reflection.md %})
+  * [Ошибки]({% link howto-write-book/errors.md %})
+* [Книга как проект]({% link howto-write-book/project.md %})
+* [Сложный процесс]({% link howto-write-book/complex.md %})
+* [Ориентация на будущее]({% link howto-write-book/time-bound.md %})
 * [Бесконечное совершенствование](endless-improvement.md) (Перенести дальше)
 
 ### Основные пункты для посещения: составные части книги
