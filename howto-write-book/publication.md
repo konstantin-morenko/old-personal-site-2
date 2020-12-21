@@ -5,6 +5,5 @@ folder: howto-write-book
 toc: false
 nextlink: howto-write-book/.md
 prevlink: howto-write-book/.md
-needupdate: true
 ---
 
