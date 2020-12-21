@@ -4,6 +4,7 @@ keywords: howto, write, book
 toc: false
 folder: howto-write-book
 ntplinks: false
+needwrite: true
 ---
 
 ## Подробнее о книге
@@ -20,6 +21,8 @@ ntplinks: false
 [Перейти к содержанию]({% link howto-write-book/toc.md %})
 
 [Начать читать с начала]
+
+## О проекте
 
 ## Поддержка и прочее
 
