@@ -4,6 +4,7 @@ folder: howto-write-book
 nextlink: howto-write-book/versions.md
 prevlink: howto-write-book/text-structure.md
 last_updated: 2020-12-18
+needwrite: true
 needupdate: [Описать схемы, Описать фотографии, Описать различие
   векторной и растровой схемы]
 ---

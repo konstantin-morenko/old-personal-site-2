@@ -46,12 +46,12 @@ layout: default
     {% endif %}
 
     {% assign stripped_content = page.content | strip_newlines %}
-    {% if stripped_content == "" %}
-      {% include important.html content="Страница находится в процессе написания." %}
-    {% endif %}
-
-    {% if page.needupdate %}
-      {% include important.html content="В страницу запланированы правки." %}
+    {% if stripped_content == "" or page.needwrite %}
+      {% include important.html content="Это заготовка страницы.  Страница находится в процессе написания." %}
+    {% else %}
+      {% if page.needupdate %}
+        {% include important.html content="В страницу запланированы правки." %}
+      {% endif %}
     {% endif %}
 
    {{content}}
