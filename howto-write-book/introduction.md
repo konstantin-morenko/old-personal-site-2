@@ -1,5 +1,10 @@
-
-# Введение
+---
+title: Введение
+folder: howto-write-book
+nextlink: howto-write-book/content.md
+prevlink: howto-write-book/annot.md
+needupdate: [Структурировать]
+---
 
 Введение в книге обычно служит самому общему пояснению целей книги,
 для кого она и знакомит читателя со структурой книги.  Автор может

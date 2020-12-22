@@ -42,14 +42,12 @@ ntplinks: false
 * [Книга как проект]({% link howto-write-book/project.md %})
 * [Сложный процесс]({% link howto-write-book/complex.md %})
 * [Ориентация на будущее]({% link howto-write-book/time-bound.md %})
-* [Бесконечное совершенствование](endless-improvement.md) (Перенести дальше)
 
-### Основные пункты для посещения: составные части книги
+### [Основные пункты для посещения: составные части книги]({% link howto-write-book/book-parts.md %})
 
-* [Название](title.md)
-* [Аннотация](annot.md)
-* [Введение](introduction.md)
-* [Иллюстрации](pics.md)
+* [Название]({% link howto-write-book/title.md %})
+* [Аннотация]({% link howto-write-book/annot.md %})
+* [Введение]({% link howto-write-book/introduction.md %})
 * [Содержание](/htwb_content.html)
   * [Структура](structure.md)
   * [Пометки внутри книги](/htwb_marks.html)
@@ -57,8 +55,10 @@ ntplinks: false
   * [Советы](tips.md)
   * [Упражнения](exercises.md)
   * [Перекрестные ссылки](cross-links.md)
+  * [Заключение]({% link howto-write-book/conclusion.md %})
   * [Глоссарий](glossary.md)
 * [Оформление]
+  * [Иллюстрации]({% link howto-write-book/pics.md %})
 * [Дополнительные сведения](additional-materials.md)
 * [Дополнительные источники информации](resources.md)
 * [Об авторе](about-author.md)
@@ -78,6 +78,7 @@ ntplinks: false
   * [Бросить в середине](want-to-quit-middle.md)
   * [Бросить в конце](want-to-quit-end.md)
   * [Если запутался](confused.md)
+* [Бесконечное совершенствование](endless-improvement.md)
 
 ## [В путь: процесс](/htwb_the_way.html) (В написании)
 
