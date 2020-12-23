@@ -1,6 +1,7 @@
 ---
 title: Константин Моренко
 keywords: 
+toc: false
 ---
 
 {{ site.data.alerts.warning }}
