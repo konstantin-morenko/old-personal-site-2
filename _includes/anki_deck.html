@@ -1,0 +1,9 @@
+    {{ deck.name }} <span class="badge bg-primary">{{ deck.type }}</span>
+	{% for t in deck.tags %}
+      <span class="badge bg-secondary">{{ t }}</span>
+    {% endfor %}
+	<ul>
+    {% for item in deck.items %}
+	  <li><a href="{{ item.local_link }}" target="_blank" rel="noopener">{{ item.date }} {{ item.version }}</a> {{ item.changelog }}</li>
+	{% endfor %}
+	</ul>

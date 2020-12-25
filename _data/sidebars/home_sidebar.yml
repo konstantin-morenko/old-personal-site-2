@@ -42,14 +42,8 @@ entries:
     - title: Я как ученый
       url: /example.html
       output: web
-    - title: Список научных трудов
-      url: /example.html
-      output: web
     - title: Список конференций
       url: /example.html
-      output: web
-    - title: Шаблоны
-      url: /science_templates.html
       output: web
 
   - title: Образование
@@ -141,9 +135,6 @@ entries:
   - title: Бизнес-литература
     output: web
     folderitems:
-    - title: Как написать книгу
-      url: /example.html
-      output: web
     - title: Эффективный стол
       url: /example.html
       output: web

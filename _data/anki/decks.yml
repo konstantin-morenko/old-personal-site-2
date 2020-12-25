@@ -1,8 +1,8 @@
-- name: Горячие клавиши (шаблон)
+- name: Горячие клавиши
   type: template
-  tags: hotkeys,words
+  tags: [hotkeys]
   items:
-  - date: 2020-11-26
+  - date: 2020-12-25
     version: 1.0.0
-    url: https://yadi.sk/d/EwDDRL_m0863zQ
+    local_link: /anki/decks/Hotkeys-template-1.0.0.apkg
     changelog: Новый шаблон

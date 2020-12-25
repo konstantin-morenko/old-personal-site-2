@@ -35,6 +35,14 @@
     state: idea
     updated: 2020-12-14
 
+  - name: Все об Anki
+    description: |
+      Мои принципы использования интервальных повторений и Anki и самые разные колоды для заучивания самых разных вещей.
+    tags: [web]
+    mdlink: anki/landing.md
+    state: idea
+    updated: 2020-12-25
+
 - name: Бизнес-литература
   content:
 
