@@ -56,16 +56,16 @@ ntplinks: false
   * [Упражнения]({% link howto-write-book/exercises.md %})
   * [Перекрестные ссылки]({% link howto-write-book/cross-links.md %})
   * [Заключение]({% link howto-write-book/conclusion.md %})
-  * [Глоссарий](glossary.md)
+  * [Глоссарий]({% link howto-write-book/glossary.md %})
+  * [Указатель]({% link howto-write-book/book-index.md %})
 * [Оформление]({% link howto-write-book/styling-book.md %})
   * [Иллюстрации]({% link howto-write-book/pics.md %})
-* [Дополнительные сведения](additional-materials.md)
-* [Дополнительные источники информации](resources.md)
-* [Об авторе](about-author.md)
+* [Дополнительные источники информации]({% link howto-write-book/resources.md %})
+* [Об авторе]({% link howto-write-book/about-author.md %})
 
 ### Маршруты между стоянками: предпосылки и препятствия
 
-* [Причины](why.md)
+* [Причины]({% link howto-write-book/why.md %})
 * [Что такое вдохновение](/htwb_inspiration.html)
 * [Страхи](fears.md)
 * [Процесс и результат](process-result.md)
