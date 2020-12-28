@@ -7,6 +7,6 @@
     {% endfor %}
 	<ul>
     {% for item in deck.items %}
-	  <li><a href="{{ item.local_link }}" target="_blank" rel="noopener">{{ item.date }} {{ item.version }}</a> {{ item.changelog }}</li>
+	  <li><a href="{{ item.local_link }}" target="_blank" rel="noopener">{{ item.date }} {{ item.version }}</a> {% if item.cards %}<span class="badge rounded-pill bg-success">{{ item.cards }}</span>{% endif %} {{ item.changelog }}</li>
 	{% endfor %}
 	</ul>
