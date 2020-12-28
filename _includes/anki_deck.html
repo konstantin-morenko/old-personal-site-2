@@ -1,4 +1,7 @@
-    {{ deck.name }} <span class="badge bg-primary">{{ deck.type }}</span>
+{% assign deck_anchor = deck.name | replace: " ", "-" %}
+<a id="{{ deck_anchor }}"></a>{{ deck.name }}
+<a class="anchorjs-link " aria-label="Anchor" data-anchorjs-icon="" href="#{{ deck_anchor }}" style="font: 1em / 1 anchorjs-icons; padding-left: 0.375em;"></a>
+<span class="badge bg-primary">{{ deck.type }}</span>
 	{% for t in deck.tags %}
       <span class="badge bg-secondary">{{ t }}</span>
     {% endfor %}
