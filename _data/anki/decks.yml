@@ -6,3 +6,14 @@
     version: 1.0.0
     local_link: /anki/decks/Hotkeys-template-1.0.0.apkg
     changelog: Новый шаблон
+
+- name: Горячие клавиши Word
+  type: card
+  tags: [hotkeys, word]
+  items:
+  - date: 2020-12-28
+    version: 1.0.0
+    local_link: /anki/decks/Hotkeys__Word-1.0.0.apkg
+    changelog: Новая колода
+    mdsource: /soft/office/word-hotkeys.md
+    cards: 61

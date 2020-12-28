@@ -43,6 +43,12 @@
     state: idea
     updated: 2020-12-25
 
+  - name: Офисные программы
+    tags: [web]
+    mdlink: soft/office/landing.md
+    state: idea
+    updated: 2020-12-28
+
 - name: Бизнес-литература
   content:
 
