@@ -1,12 +1,12 @@
 {% assign deck_anchor = deck.name | replace: " ", "-" %}
 <a id="{{ deck_anchor }}"></a>{{ deck.name }}
 <a class="anchorjs-link " aria-label="Anchor" data-anchorjs-icon="" href="#{{ deck_anchor }}" style="font: 1em / 1 anchorjs-icons; padding-left: 0.375em;"></a>
-<span class="badge bg-primary">{{ deck.type }}</span>
+<span class="badge deck-type">{{ deck.type }}</span>
 	{% for t in deck.tags %}
-      <span class="badge bg-secondary">{{ t }}</span>
+      <span class="badge geck-tag">{{ t }}</span>
     {% endfor %}
 	<ul>
     {% for item in deck.items %}
-	  <li><a href="{{ item.local_link }}" target="_blank" rel="noopener">{{ item.date }} {{ item.version }}</a> {% if item.cards %}<span class="badge rounded-pill bg-success">{{ item.cards }}</span>{% endif %} {{ item.changelog }}</li>
+	  <li><a href="{{ item.local_link }}" target="_blank" rel="noopener">{{ item.date }} {{ item.version }}</a> {% if item.cards %}<span class="badge deck-cards-num">{{ item.cards }}</span>{% endif %} {{ item.changelog }}</li>
 	{% endfor %}
 	</ul>

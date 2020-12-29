@@ -1198,3 +1198,16 @@ h4.panel-title {
         display:block !important;
     }
 }
+
+/* ==================== Badges for Anki decks ==================== */
+
+.badge.deck-type {
+    background-color: #0d6efd;
+}
+
+.badge.deck-tag {
+}
+
+.badge.deck-cards-num {
+    background-color: #198754;
+}
