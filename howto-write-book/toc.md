@@ -66,10 +66,10 @@ ntplinks: false
 ### Маршруты между стоянками: предпосылки и препятствия
 
 * [Причины]({% link howto-write-book/why.md %})
-* [Что такое вдохновение](/htwb_inspiration.html)
-* [Страхи](fears.md)
-* [Процесс и результат](process-result.md)
-* [Навыки, убеждения и ценности](skills-beliefs-values.md)
+* [Что такое вдохновение]({% link howto-write-book/inspiration.md %})
+* [Страхи]({% link howto-write-book/fears.md %})
+* [Процесс и результат]({% link howto-write-book/process-result.md %})
+* [Навыки, убеждения и ценности]({% link howto-write-book/skills-beliefs-values.md %})
 * [Трудность с написанием текста](difficult-to-write.md)
 * [Привычка](habit.md)
 * [Мотивация](motivation.md)
@@ -130,6 +130,7 @@ ntplinks: false
           * [История книги](book-history.md)
         * [Обратная связь с автором](site-feedback.md)
         * [Перекрестная связь сайта и печатной (электронной) книги](cross-modal-links.md)
+	  * [Продвижение]({% link howto-write-book/promotion.md %})
     * Сервис
       * [О резервном копировании материалов](/htwb_backup.html)
     * [Работа над повышением качества](/htwb_quality_improvement.html)
