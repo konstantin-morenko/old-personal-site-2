@@ -1,20 +1,8 @@
 ---
-title: Привычки (Как написать книгу)
-keywords: howto, write, book
-permalink: /htwb_habits.html
-folder: howto-write-book
+title: Привычка
+needwrite: true
+last_updated: 2021-01-01
+nextlink: howto-write-book/motivation.md
+prevlink: howto-write-book/difficult-to-write.md
 ---
 
-{% include note.html content="Раздел находится в процессе написания." %}
-
-Скорее всего Вам придется проводить подготовку всех рисунков для своей
-книги самостоятельно.  В этом случае пригодится понимание разных видов
-редакторов и полезные советы по работе с ними.
-
-## Схемы, диаграммы, графики
-
-## Фотографии, художественные иллюстрации
-
-- [Далее: Использование электронных средств контроля версий файлов](/htwb_versions.html)
-- [Назад: Структурирование текста](/htwb_text_structure.html)
-- [К содержанию](/htwb_toc.html)

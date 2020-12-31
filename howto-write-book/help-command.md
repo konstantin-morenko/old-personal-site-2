@@ -1,5 +1,5 @@
 ---
-title: Команда обеспечения
+title: Команда поддержки
 keywords: howto, write, book
 folder: howto-write-book
 nextlink: howto-write-book/notebook.md
