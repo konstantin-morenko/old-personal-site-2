@@ -113,6 +113,17 @@ defaults:
       search: true
       sidebar: howto_write_book_sidebar
       topnav: topnav
+  -
+    scope:
+      path: "365-days"
+      type: "pages"
+    values:
+      toclink: 365-days/landing.md
+      layout: "book-page"
+      ntplinks: true
+      projectname: "365 дней"
+      comments: false
+      search: true
 
 # these are defaults used for the frontmatter for these file types
 
