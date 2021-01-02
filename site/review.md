@@ -14,8 +14,8 @@ search: exclude
 - пустое содержимое страницы
 - наличие даты последнего обновления (`last_updated` во Frontmatter)
 - количество слов на странице:
-  - меньше 2000
-  - больше 10000
+  - меньше `seo_wmin` (по умолчанию 2000)
+  - больше `seo_wmax` (по умолчанию 10000)
 - наличие `needupdate` (во FrontMatter)
 
 ## Результаты анализа страниц
@@ -63,11 +63,13 @@ search: exclude
   {% endunless %}
 
   {% assign w = p.content | number_of_words %}
-  {% if w < 2000 %}
+  {% assign wmin = p.seo_wmin | default: 2000 %}
+  {% if w < wmin %}
     {% assign show = true %}
 	{% assign c_lwords = c_lwords | plus: 1 %}
   {% endif %}
-  {% if w > 10000 %}
+  {% assign wmax = p.seo_wmax | default: 10000 %}
+  {% if w > wmax %}
     {% assign show = true %}
 	{% assign c_mwords = c_mwords | plus: 1 %}
   {% endif %}
@@ -86,8 +88,8 @@ search: exclude
         {% unless p.summary %}<li>Необходима аннотация</li>{% endunless %}
         {% if p.needwrite or stripped_content == "" %}<li>Страница требует наполнения</li>{% endif %}
         {% unless p.last_updated %}<li>Не указана дата последнего обновления</li>{% endunless %}
-        {% if w < 2000 %}<li>Слишком мало слов: {{ w }}</li>{% endif %}
-        {% if w > 10000 %}<li>Слишком много слов: {{ w }}</li>{% endif %}
+        {% if w < wmin %}<li>Слишком мало слов: {{ w }} &lt; {{ wmin }}</li>{% endif %}
+        {% if w > wmax %}<li>Слишком много слов: {{ w }} &gt; {{ wmax }}</li>{% endif %}
         {% if p.needupdate %}{% for t in p.needupdate %}<li>{{ t }}</li>{% endfor %}{% endif %}
       </ul>
     </li>

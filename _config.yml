@@ -124,6 +124,8 @@ defaults:
       projectname: "365 дней"
       comments: false
       search: true
+      seo_wmin: 330
+      seo_wmax: 415
 
 # these are defaults used for the frontmatter for these file types
 

@@ -23,6 +23,9 @@ ntplinks: true
 nextlink: .md
 prevlink: .md
 toclink: (_config.yml)
+
+seo_wmin: 2000
+seo_wmax: 10000
 ---
 ```
 
@@ -51,3 +54,13 @@ toclink: (_config.yml)
 - nextlink --- ссылка на следующую страницу
 - prevlink --- ссылка на предыдущую страницу
 - toclink --- ссылка на оглавление (`_config.yml`)
+
+### SEO и качество страниц
+
+Для дополнительного контроля качества страниц:
+- `seo_wmin` --- минимальное количество слов на странице
+  (`_config.yml`)
+- `seo_wmax` --- максимальное количество слов на странице
+  (`_config.yml`)
+
+[Результаты контроля качества страниц]({% link site/review.md %})
