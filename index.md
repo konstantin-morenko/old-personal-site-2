@@ -20,11 +20,4 @@ toc: false
 
 {{ site.data.alerts.end }}
 
-## Переходы с другого доменного имени
-
-Если вы попали сюда с другого домена, то вот список того, что вы
-можете искать:
-- `howto-write-book.books.konstantin-morenko.ru`, Вы ищете [Как
-  написать книгу]({% link howto-write-book/landing.md %}).
-
 {% include all-projects.html %}
