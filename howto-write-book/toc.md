@@ -77,12 +77,10 @@ ntplinks: false
   * [Бросить в начале]({% link howto-write-book/want-to-quit-beginning.md %})
   * [Бросить в середине]({% link howto-write-book/want-to-quit-middle.md %})
   * [Бросить в конце]({% link howto-write-book/want-to-quit-end.md %})
-  * [Если запутался](confused.md)
-* [Бесконечное совершенствование](endless-improvement.md)
+  * [Если запутался]({% link howto-write-book/confused.md %})
+* [Бесконечное совершенствование]({% link howto-write-book/endless-improvement.md %})
 
-## [В путь: процесс](/htwb_the_way.html) (В написании)
-
-* [О процессе](process.md)
+## [В путь: процесс]({% link howto-write-book/process.md %})
 
 * [Старт](start.md)
   * [Как придумать идею для книги](book-idea.md)

@@ -29,7 +29,7 @@ prevlink: howto-write-book/from-author.md
 приключение в области литературы и написания книг и соответственным
 образом выбрал [маршрут]({% link howto-write-book/route.md %}),
 подготовил [инвентарь]({% link howto-write-book/equipment.md %}) и
-[пустился в путь]({% link howto-write-book/the-way.md %}).  А по
+[пустился в путь]({% link howto-write-book/process.md %}).  А по
 завершению я получил не только [опыт]({% link
 howto-write-book/author-feedback.md %}) написания книги но и множество
 весьма интересных [сувениров]({% link howto-write-book/this-plan.md
