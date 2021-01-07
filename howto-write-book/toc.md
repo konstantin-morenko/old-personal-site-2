@@ -82,9 +82,9 @@ ntplinks: false
 
 ## [В путь: процесс]({% link howto-write-book/process.md %})
 
-* [Старт](start.md)
-  * [Как придумать идею для книги](book-idea.md)
-  * [Когда приходят идеи](when-ideas-came.md)
+* [Старт]({% link howto-write-book/start.md %})
+  * [Как придумать идею для книги]({% link howto-write-book/book-idea.md %})
+  * [Когда приходят идеи]({% link howto-write-book/when-ideas-came.md %})
   * [От идеи к оглавлению](/htwb_idea_to_toc.md)
     * [Анализ существующих книг по сходным темам](/htwb_analyze.html)
 	* [Кто будет читать]({% link howto-write-book/readers.md %})
