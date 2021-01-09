@@ -31,6 +31,8 @@ ntplinks: false
   * [Электронные средства контроля версий файлов]({% link howto-write-book/versions.md %})
 * [Дневник]({% link howto-write-book/diary.md %})
   * [Структура дневника]({% link howto-write-book/diary-structure.md %})
+  * [Хронометраж времени]({% link howto-write-book/chrono.md %})
+  * [Статистика]({% link howto-write-book/diary-statistics.md %})
 
 ## [Разведка: куда идти и каким маршрутом]({% link howto-write-book/route.md %})
 
@@ -89,11 +91,10 @@ ntplinks: false
     * [Анализ существующих книг по сходным темам]({% link howto-write-book/analyze.md %})
 	* [Кто будет читать]({% link howto-write-book/readers.md %})
   * [От оглавления к содержанию]({% link howto-write-book/toc-to-content.md %})
-* [Режим работы над книгой](routine.md)
+* [Режим работы над книгой]({% link howto-write-book/routine.md %})
   * [Интенсивность работы]({% link howto-write-book/time-intensity.md %})
   * [Распределение времени]({% link howto-write-book/time-management.md %})
-    * [Почему нужно уделять время всем видам работ](all-work-types.md)
-	* [Хронометраж времени](/htwb_chrono.html)
+    * [Почему нужно уделять время всем видам работ]({% link howto-write-book/all-work-types.md %})
   * [Сеанс писательской работы](/htwb_writing_session.htwb)
     * [Настрой на работу](/htwb_starting_work.html)
       * [Фрирайтинг](/htwb_freewriting.html)

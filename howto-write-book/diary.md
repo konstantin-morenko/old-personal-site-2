@@ -4,7 +4,7 @@ folder: howto-write-book
 nextlink: howto-write-book/diary-structure.md
 prevlink: howto-write-book/versions.md
 last_updated: 2020-12-18
-needupdate: [Ссылка на список полезных книг]
+needupdate: [Ссылка на список полезных книг, Ссылка на time-management.md]
 ---
 
 Дневник является весьма важным инструментом саморазвития.  Если в

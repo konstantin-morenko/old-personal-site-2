@@ -1,7 +1,7 @@
 ---
 title: Структура дневника
 folder: howto-write-book
-nextlink: howto-write-book/route.md
+nextlink: howto-write-book/chrono.md
 prevlink: howto-write-book/diary.md
 last_updated: 2020-12-18
 needupdate: [Файл со структурой для печати, Ограничить время на

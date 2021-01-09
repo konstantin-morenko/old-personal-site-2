@@ -1,10 +1,9 @@
 ---
 title: Хронометраж времени
-folder: howto-write-book
-nextlink: howto-write-book/image-processor.md
-prevlink: howto-write-book/making-toc.md
+nextlink: howto-write-book/diary-statistics.md
+prevlink: howto-write-book/diary-structure.md
 last_updated: 2020-12-18
-needupdate: []
+needwrite: true
 ---
 
 ## Простейшая форма «начало-конец»
