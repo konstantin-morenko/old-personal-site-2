@@ -95,9 +95,9 @@ ntplinks: false
   * [Интенсивность работы]({% link howto-write-book/time-intensity.md %})
   * [Распределение времени]({% link howto-write-book/time-management.md %})
     * [Почему нужно уделять время всем видам работ]({% link howto-write-book/all-work-types.md %})
-  * [Сеанс писательской работы](/htwb_writing_session.htwb)
-    * [Настрой на работу](/htwb_starting_work.html)
-      * [Фрирайтинг](/htwb_freewriting.html)
+  * [Сеанс писательской работы]({% link howto-write-book/writing-session.md %})
+    * [Настрой на работу]({% link howto-write-book/starting-work.md %})
+      * [Фрирайтинг]({% link howto-write-book/freewriting.md %})
     * [Большая цель](big-aim.md)
     * Изучение материалов
       * [Изучение материалов по теме книги]({% link howto-write-book/studying-books.md %}) (В написании)
