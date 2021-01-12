@@ -98,11 +98,11 @@ ntplinks: false
   * [Сеанс писательской работы]({% link howto-write-book/writing-session.md %})
     * [Настрой на работу]({% link howto-write-book/starting-work.md %})
       * [Фрирайтинг]({% link howto-write-book/freewriting.md %})
-    * [Большая цель](big-aim.md)
+    * [Большая цель]({% link howto-write-book/big-aim.md %})
     * Изучение материалов
-      * [Изучение материалов по теме книги]({% link howto-write-book/studying-books.md %}) (В написании)
-      * [Изучение материалов по сторонним темам](/htwb_studying_aux.html) (В написании)
-    * Работа с текстом
+      * [Изучение материалов по теме книги]({% link howto-write-book/studying-books.md %})
+      * [Изучение материалов по сторонним темам]({% link howto-write-book/studying-aux.md %})
+    * [Работа с текстом]({% link howto-write-book/text-work.md %})
       * [Написание текста]({% link howto-write-book/text-writing.md %})
         * [Определение собственного ритма](own-rhythm.md)
         * [Порядок написания отдельных частей](writing-sequence.md)
