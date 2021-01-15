@@ -1,4 +1,6 @@
 ---
 title: Динамическая группа поддержки
-needupdate: [Написать текст]
+needwrite: true
+nextlink: howto-write-book/breaks.md
+prevlink: howto-write-book/non-text.md
 ---

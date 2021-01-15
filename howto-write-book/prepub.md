@@ -1,8 +1,11 @@
-
-# Предварительная публикация
+---
+title: Предварительная публикация
+nextlink: howto-write-book/articles-transform.md
+prevlink: howto-write-book/publication.md
+---
 
 Предварительная публикация тесно связана с идеей [коммерческой
-реализации].
+реализации]({% link howto-write-book/commerc.md %}).
 
 ## Публикация материалов *до* издания
 

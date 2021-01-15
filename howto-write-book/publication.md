@@ -1,9 +1,7 @@
 ---
 title: Публикация
-keywords: howto, write, book
-folder: howto-write-book
-toc: false
-nextlink: howto-write-book/.md
-prevlink: howto-write-book/.md
+nextlink: howto-write-book/prepub.md
+prevlink: howto-write-book/breaks.md
+needwrite: true
 ---
 
