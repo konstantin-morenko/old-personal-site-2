@@ -2,6 +2,7 @@
 title: Оценка посещаемости
 nextlink: howto-write-book/domain.md
 prevlink: howto-write-book/book-html.md
+needupdate: [Блокировка счетчиков блокировщиками рекламы/отслеживания]
 ---
 
 Самой первой и опережающей оценкой коммерческого успеха будущей книги

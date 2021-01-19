@@ -1,5 +1,9 @@
-
-# История книги
+---
+title: История книги
+nextlink: howto-write-book/site-feedback.md
+prevlink: howto-write-book/additional-materials.md
+needwrite: true
+---
 
 Любая книга является следствием некоторых событий в жизни автора.
 Любая книга это некоторый фрагмент истории жизни автора.  В
