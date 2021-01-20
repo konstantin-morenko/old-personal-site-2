@@ -2,7 +2,6 @@
 title: Содержание
 keywords: howto, write, book, toc
 toc: false
-folder: howto-write-book
 ntplinks: false
 ---
 
@@ -129,14 +128,14 @@ ntplinks: false
         * [Дополнительные материалы: новости, издание, обсуждение]({% link howto-write-book/additional-materials.md %})
           * [История книги]({% link howto-write-book/book-history.md %})
         * [Обратная связь с автором]({% link howto-write-book/site-feedback.md %})
-        * [Перекрестная связь сайта и печатной (электронной) книги](cross-modal-links.md)
+        * [Перекрестная связь сайта и печатной (электронной) книги]({% link howto-write-book/cross-modal-links.md %})
 	  * [Продвижение]({% link howto-write-book/promotion.md %})
     * Сервис
-      * [О резервном копировании материалов](/htwb_backup.html)
-    * [Работа над повышением качества](/htwb_quality_improvement.html)
-    * [Завершение сеанса](/htwb_ending_work.html)
-	* [Опасность бесконечного совершенствования](/htwb_endless_improvement.html)
-  * [Записывать все идеи](/htwb_writing_down_ideas.html)
+      * [О резервном копировании материалов]({% link howto-write-book/backup.md %})
+    * [Работа над повышением качества]({% link howto-write-book/quality-improvement.md %})
+    * [Завершение сеанса]({% link howto-write-book/ending-work.md %})
+	* [Опасность бесконечного совершенствования]({% link howto-write-book/endless-improvement.md %})
+  * [Записывать все идеи]({% link howto-write-book/writing-down-ideas.md %})
     * [Важность рисунков]({% link howto-write-book/sketch.md %})
   * [Изменяющиеся условия среды](changing-environment.md)
     * [Планирование времени и обстоятельств](environment.md)
