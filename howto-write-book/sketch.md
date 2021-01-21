@@ -1,4 +1,6 @@
 ---
 title: Важность рисунков
-needupdate: [Написать текст]
+needwrite: true
+nextlink: howto-write-book/changging-environment.md
+prevlink: howto-write-book/writing-down-ideas.md
 ---
