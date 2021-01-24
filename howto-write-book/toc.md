@@ -146,9 +146,9 @@ ntplinks: false
       * [Сон и отдых]({% link howto-write-book/sleep.md %})
       * [Физические упражнения]({% link howto-write-book/phys.md %})
         * [Пешие прогулки]({% link howto-write-book/walks.md %})
-      * [Работа со стрессами](stresses.md)
-        * [Улыбаться](smiling.md)
-      * [Психоэмоциональное состояние](/htwb_psycho.html)
+      * [Работа со стрессами]({% link howto-write-book/stresses.md %})
+        * [Улыбаться]({% link howto-write-book/smiling.md %})
+      * [Психоэмоциональное состояние]({% link howto-write-book/psycho.md %})
       * [Чтение](reading.md)
       * [Достаточное питание]
     * [Отпуск в работе](vacation.md)
