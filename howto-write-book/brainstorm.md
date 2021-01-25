@@ -1,8 +1,5 @@
 ---
 title: Мозговой штурм
-folder: howto-write-book
-nextlink: howto-write-book/mindmaps.md
-prevlink: howto-write-book/writing-practice.md
 needupdate: [Описать использование мозговых карт во время сессии]
 ---
 

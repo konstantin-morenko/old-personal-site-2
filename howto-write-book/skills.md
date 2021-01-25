@@ -1,8 +1,5 @@
 ---
 title: Полезные навыки
-folder: howto-write-book
-nextlink: howto-write-book/help-command.md
-prevlink: howto-write-book/mindmaps.md
 needupdate: [Добавить ссылку на книгу о полезных навыках]
 ---
 

@@ -1,9 +1,6 @@
 ---
 title: Блокнот
 keywords: howto, write, book
-folder: howto-write-book
-nextlink: howto-write-book/recorder.md
-prevlink: howto-write-book/help-command.md
 needupdate: [Ссылка на книгу мнемотехники]
 last_updated: 2020-12-14
 ---

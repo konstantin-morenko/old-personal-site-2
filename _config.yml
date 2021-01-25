@@ -110,6 +110,7 @@ defaults:
       ntplinks: true
       projectname: "Как написать книгу"
       comments: false
+      hide_sidebar: false
       search: true
       sidebar: howto_write_book_sidebar
       topnav: topnav

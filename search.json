@@ -10,7 +10,7 @@ search: exclude
 {
 "title": "{{ page.title | escape }}{% if page.projectname %} ({{page.projectname}}){% endif %}",
 "tags": "{{ page.tags }}",
-"keywords": "{{page.keywords}}",
+"keywords": "{{page.keywords }}",
 "url": "{{ page.url }}",
 "summary": "{{page.summary | strip }}"
 }
@@ -23,9 +23,9 @@ search: exclude
 {
 "title": "{{ post.title | escape }}",
 "tags": "{{ post.tags }}",
-"keywords": "{{post.keywords}}",
-"url": "{{ post.url | remove: "/" }}",
-"summary": "{{post.summary | strip }}"
+"keywords": "{{ post.keywords }}",
+"url": "{{ post.url }}",
+"summary": "{{ post.summary | strip }}"
 }
 {% unless forloop.last %},{% endunless %}
 {% endfor %}

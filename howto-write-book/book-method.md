@@ -2,9 +2,6 @@
 title: "Подход, используемый в этой книге"
 keywords: howto, write, book
 toc: false
-folder: howto-write-book
-nextlink: howto-write-book/equipment.md
-prevlink: howto-write-book/intro.md
 needupdate: [Ссылка на писательский курс]
 ---
 

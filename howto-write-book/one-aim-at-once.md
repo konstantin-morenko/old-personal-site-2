@@ -1,8 +1,5 @@
 ---
 title: Только одна книга за раз
-folder: howto-write-book
-nextlink: howto-write-book/own-efforts.md
-prevlink: howto-write-book/one-aim-at-once.md
 last_updated: 2020-12-20
 needupdate: [Ссылка на книгу о привычках]
 ---

@@ -1,9 +1,6 @@
 ---
 title: Введение
 keywords: howto, write, book
-folder: howto-write-book
-nextlink: howto-write-book/book-method.md
-prevlink: howto-write-book/from-author.md
 ---
 
 ## Приключение
@@ -27,7 +24,7 @@ prevlink: howto-write-book/from-author.md
 Именно поэтому эта книга оформлена как приключение.  Настоящее
 приключение, которое рекомендуется пережить каждому.  Я выбрал свое
 приключение в области литературы и написания книг и соответственным
-образом выбрал [маршрут]({% link howto-write-book/route.md %}),
+образом выбрал [маршрут]({% link howto-write-book/why-book.md %}),
 подготовил [инвентарь]({% link howto-write-book/equipment.md %}) и
 [пустился в путь]({% link howto-write-book/process.md %}).  А по
 завершению я получил не только [опыт]({% link

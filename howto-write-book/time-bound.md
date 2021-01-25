@@ -1,8 +1,5 @@
 ---
 title: Ориентация на будущее
-folder: howto-write-book
-nextlink: howto-write-book/endless-improvement.md
-prevlink: howto-write-book/complex.md
 ---
 
 Эта ситуация связана с [определенностью цели]({% link

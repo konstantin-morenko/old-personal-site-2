@@ -1,9 +1,6 @@
 ---
 title: Подход к качеству
 keywords: howto, write, book
-folder: howto-write-book
-nextlink: howto-write-book/writing-practice.md
-prevlink: howto-write-book/equipment.md
 needupdate: [Схема принципов качества]
 ---
 
@@ -176,9 +173,9 @@ howto-write-book/mindmaps.md %}) книги и повесить на стену,
 технологии.
 
 Зачем формировать оглавление вручную, если [это может сделать
-машина]({% link howto-write-book/making-toc.md %}), да еще и без
-ошибок?  Но для этого нужно изучить существующие возможности.
-[Обучение новым методам работы]({% link
+машина]({% link howto-write-book/text-processor.md %}#making-toc), да
+еще и без ошибок?  Но для этого нужно изучить существующие
+возможности.  [Обучение новым методам работы]({% link
 howto-write-book/studying-aux.md %}) является такой же неотъемлемой ее
 частью, как и написание материала.  Для меня почти вся эта книга стала
 таким обучением, поэтому я и взялся за ее написание.  Очевидно: стоит

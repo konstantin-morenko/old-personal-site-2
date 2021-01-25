@@ -2,8 +2,6 @@
 title: От автора
 keywords: howto, write, book
 toc: false
-folder: howto-write-book
-nextlink: howto-write-book/intro.md
 needupdate: [Ссылка на принципы Sharing]
 ---
 

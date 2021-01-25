@@ -1,8 +1,5 @@
 ---
 title: Книга как проект
-folder: howto-write-book
-nextlink: howto-write-book/complex.md
-prevlink: howto-write-book/errors.md
 needupdate: [Ссылка на книгу о привычках]
 ---
 

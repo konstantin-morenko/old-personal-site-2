@@ -4,7 +4,7 @@ nextlink: howto-write-book/promotion.md
 prevlink: howto-write-book/site-feedback.md
 ---
 
-[Перекрестные ссылки]({% link howto-write-book/cross-links.md %})
+[Перекрестные ссылки]({% link howto-write-book/content.md %}#cross-links)
 внутри материалов книги служат для связывания материалов друг с
 другом.  Ссылки же между изданной книгой и сайтом позволяют связать
 два разных вида материалов.

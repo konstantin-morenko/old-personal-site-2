@@ -1,8 +1,5 @@
 ---
 title: Компьютер
-folder: howto-write-book
-nextlink: howto-write-book/internet.md
-prevlink: howto-write-book/recorder.md
 needupdate: [Ссылка на горячие клавиши и компьютеры]
 last_updated: 2020-12-17
 ---

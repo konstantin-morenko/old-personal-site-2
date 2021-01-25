@@ -1,8 +1,5 @@
 ---
 title: Диктофон
-folder: howto-write-book
-nextlink: howto-write-book/pc.md
-prevlink: howto-write-book/notebook.md
 needupdate: [Ссылка на книгу по мнемотехники]
 last_updated: 2020-12-17
 ---

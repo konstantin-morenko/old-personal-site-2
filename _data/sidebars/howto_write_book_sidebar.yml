@@ -7,14 +7,302 @@ entries:
   folders:
 
   - title: Введение
-    output: web, pdf
     folderitems:
 
-    - title: Аннотация
-      url: /htwb_index.html
-      output: web, pdf
-      type: homepage
+    - title: От автора
+      url: /howto-write-book/from-author.html
 
     - title: Введение
-      url: /htwb_intro.html
-      output: web, pdf
+      url: /howto-write-book/intro.html
+
+    - title: "Подход, используемый в книге"
+      url: /howto-write-book/book-method.html
+
+  - title: "Подготовка: что может пригодиться"
+    folderitems:
+
+    - title: Инструменты
+      url: /howto-write-book/equipment.html
+
+    - title: Подход к качеству
+      url: /howto-write-book/quality-management.html
+
+    - title: Умение излагать мысли на бумаге
+      url: /howto-write-book/writing-practice.html
+
+    - title: Мозговой штурм
+      url: /howto-write-book/brainstorm.html
+
+    - title: Ментальные карты
+      url: /howto-write-book/mindmaps.html
+
+    - title: Полезные навыки
+      url: /howto-write-book/skills.html
+
+    - title: Команда поддержки
+      url: /howto-write-book/help-command.html
+
+    - title: Блокнот
+      url: /howto-write-book/notebook.html
+
+    - title: Диктофон
+      url: /howto-write-book/recorder.html
+
+      subfolders:
+      - title: Цифровые технологии
+        subfolderitems:
+
+        - title: Компьютер
+          url: /howto-write-book/pc.html
+
+        - title: Интернет
+          url: /howto-write-book/internet.html
+
+        - title: Программа для работы с текстом
+          url: /howto-write-book/text-processor.html
+
+        - title: Программы для работы с изображением
+          url: /howto-write-book/image-processor.html
+
+        - title: Электронные средства контроля версий файлов
+          url: /howto-write-book/versions.html
+
+    - title: Дневник
+      url: /howto-write-book/diary.html
+
+  - title: "Разведка: куда идти и каким маршрутом"
+    folderitems:
+
+    - title: Зачем книга
+      url: /howto-write-book/why-book.html
+
+    - title: Только одна книга за раз
+      url: /howto-write-book/one-aim-at-once.html
+
+    - title: Собственные усилия
+      url: /howto-write-book/own-efforts.html
+
+    - title: Книга как проект
+      url: /howto-write-book/project.html
+
+    - title: Сложный процесс
+      url: /howto-write-book/complex.html
+
+    - title: Ориентация на будущее
+      url: /howto-write-book/time-bound.html
+
+  - title: "Основные пункты для посещения: составные части книги"
+    folderitems:
+
+    - title: Название
+      url: /howto-write-book/title.html
+      
+    - title: Аннотация
+      url: /howto-write-book/annot.html
+
+    - title: Введение
+      url: /howto-write-book/introduction.html
+      
+    - title: Содержание
+      url: /howto-write-book/content.html
+
+    - title: Оформление
+      url: /howto-write-book/styling-book.html
+
+    - title: Дополнительные источники информации
+      url: /howto-write-book/resources.html
+
+    - title: Об авторе
+      url: /howto-write-book/about-author.html
+
+  - title: "Маршруты между стоянками: предпосылки и препятствия"
+    folderitems:
+
+    - title: Причины
+      url: /howto-write-book/why.html
+
+    - title: Что такое вдохновение
+      url: /howto-write-book/inspiration.html
+
+    - title: Страхи
+      url: /howto-write-book/fears.html
+
+    - title: Процесс и результат
+      url: /howto-write-book/process-result.html
+
+    - title: "Навыки, убеждения и ценности"
+      url: /howto-write-book/skills-beliefs-values.html
+
+    - title: Трудность с написанием текста
+      url: /howto-write-book/difficult-to-write.html
+
+    - title: Привычка
+      url: /howto-write-book/habit.html
+
+    - title: Мотивация
+      url: /howto-write-book/motivation.html
+
+    - title: Когда хочется все бросить
+      url: /howto-write-book/want-to-quit.html
+
+    - title: Бесконечное совершенствование
+      url: /howto-write-book/endless-improvement.html
+
+  - title: "В путь: процесс"
+    folderitems:
+
+    - title: Старт
+      url: /howto-write-book/start.html
+
+    - title: Как придумать идею для книги
+      url: /howto-write-book/book-idea.html
+
+    - title: Когда приходят идеи
+      url: /howto-write-book/when-idea-came.html
+
+    - title: От идеи к оглавлению
+      url: /howto-write-book/idea-to-toc.html
+
+    - title: От оглавления к содержанию
+      url: /howto-write-book/toc-to-content.html
+
+  - title: Работа над книгой
+    folderitems:
+
+    - title: Режим работы над книгой
+      url: /howto-write-book/routine.html
+
+    - title: Интенсивность работы
+      url: /howto-write-book/time-intensity.html
+
+    - title: Распределение времени
+      url: /howto-write-book/time-management.html
+
+    - title: Сеанс писательской работы
+      url: /howto-write-book/writing-session.html
+
+    - title: Большая цель
+      url: /howto-write-book/big-aim.html
+
+    - title: Изучение материалов
+      url: /howto-write-book/studying-materials.html
+
+      subfolders:
+
+      - title: Работа с текстом
+        subfolderitems:
+
+        - title: Написание текста
+          url: /howto-write-book/text-writing.html
+
+        - title: Подбор материалов
+          url: /howto-write-book/materials.html
+
+        - title: Редактирование
+          url: /howto-write-book/editing.html
+
+        - title: Язык текста
+          url: /howto-write-book/modal-types.html
+
+    - title: Нетекстовые материалы
+      url: /howto-write-book/non-text.html
+
+    - title: Работа с командой обеспечения
+      url: /howto-write-book/group-session.html
+
+    - title: Перерывы во время работы
+      url: /howto-write-book/breaks.html
+
+      subfolders:
+      - title: Публикация
+        subfolderitems:
+
+        - title: Подход к публикации
+          url: /howto-write-book/publication.html
+
+        - title: Сайт книги
+          url: /howto-write-book/book-site.html
+
+        - title: Обратная связь с автором
+          url: /howto-write-book/site-feedback.html
+
+        - title: Перекрестная связь сайта и печатной (электронной) книги
+          url: /howto-write-book/cross-modal-links.html
+
+        - title: Продвижение
+          url: /howto-write-book/promotion.html
+
+        - title: Сервис
+          url: /howto-write-book/service.html
+
+        - title: Работа над повышением качества
+          url: /howto-write-book/quality-improvement.html
+
+        - title: Завершение сеанса
+          url: /howto-write-book/ending-work.html
+
+        - title: Опасность бесконечного совершенствания
+          url: /howto-write-book/endless-improvement.html
+
+    - title: Записывать все идеи
+      url: /howto-write-book/writing-down-ideas.html
+
+
+      subfolders:
+      - title: Окружающая среда
+        subfolderitems:
+
+        - title: Изменяющиеся условия среды
+          url: /howto-write-book/changing-environment.html
+
+        - title: Окружающая обстановка
+          url: /howto-write-book/env-place.html
+
+        - title: Режим дня
+          url: /howto-write-book/day-schedule.html
+
+        - title: Работа со стрессами
+          url: /howto-write-book/stresses.html
+
+        - title: Психоэмоциональное состояние
+          url: /howto-write-book/psycho.html
+
+        - title: Чтение
+          url: /howto-write-book/reading.html
+
+        - title: Достаточное питание
+          url: /howto-write-book/meals.html
+
+        - title: Отпуск в работе
+          url: /howto-write-book/vacation.html
+
+      subfolders:
+      - title: Разные заметки
+        subfolderitems:
+
+        - title: Стиль книги
+          url: /howto-write-book/style.html
+
+        - title: Собственный опыт
+          url: /howto-write-book/experience.html
+
+        - title: Правки после завершения
+          url: /howto-write-book/after-publication-edits.html
+
+        - title: Переиздание
+          url: /howto-write-book/re-edition.html
+
+        - title: Коммерциализация книги
+          url: /howto-write-book/commerc.html
+
+        - title: Файлы
+          url: /howto-write-book/files.html
+
+  - title: "Конечная точка: заключение"
+    folderitems:
+
+    - title: Обобщенный вид процесса написания книги
+      url: /howto-write-book/common-process.html
+
+    - title: Сувениры
+      url: /howto-write-book/souvenirs.html

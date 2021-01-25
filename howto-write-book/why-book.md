@@ -1,9 +1,6 @@
 ---
 title: Зачем книга
-folder: howto-write-book
-nextlink: howto-write-book/one-aim-at-once.md
-prevlink: howto-write-book/route.md
-needupdate: [Написать текст]
+needwrite: true
 ---
 
 ## «Другие говорят, что у меня получится»

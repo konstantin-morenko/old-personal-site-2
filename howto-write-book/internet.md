@@ -1,10 +1,7 @@
 ---
 title: Интернет
-nextlink: howto-write-book/text-processor.md
-prevlink: howto-write-book/pc.md
 needupdate: [Ссылка на хорошие книги]
 last_updated: 2020-12-17
-folder: howto-write-book
 ---
 
 Конечно же, без Интернета написать книгу будет довольно

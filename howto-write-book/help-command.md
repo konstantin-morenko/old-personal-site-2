@@ -1,9 +1,6 @@
 ---
 title: Команда поддержки
 keywords: howto, write, book
-folder: howto-write-book
-nextlink: howto-write-book/notebook.md
-prevlink: howto-write-book/skills.md
 needupdate: [Дописать качества команды, Дописать роли людей]
 last_updated: 2020-12-14
 ---

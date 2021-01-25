@@ -4,7 +4,7 @@ nextlink: howto-write-book/links.md
 prevlink: howto-write-book/editing.md
 ---
 
-[Структура книги]({% link howto-write-book/structure.md %})
+[Структура книги]({% link howto-write-book/content.md %}#structure)
 представляет собой «карту» рассматриваемой области, и от нее во многом
 зависит полнота раскрытия вопроса.
 
@@ -56,7 +56,7 @@ link howto-write-book/help-command.md %})
 {{ site.data.alerts.exercise }}
 
 Обязательно составляйте [структуру (или оглавление)]({% link
-howto-write-book/structure.md %}) для своей книги и пересматривайте
+howto-write-book/content.md %}#structure) для своей книги и пересматривайте
 его не реже 20-30 сеансов писательской работы.  Это позволит сохранить
 книгу в хорошей форме и более точно передать читателю свои мысли, а
 так же натолкнет на скрытые ранее взаимосвязи.

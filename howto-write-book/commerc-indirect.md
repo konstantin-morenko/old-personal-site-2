@@ -13,7 +13,7 @@ prevlink: howto-write-book/commerc-direct.md
 Книга может быть отличным приложением к авторскому курсу и содержать
 [дополнительные материалы]({% link
 howto-write-book/additional-materials.md %}) и [упражнения]({% link
-howto-write-book/exercises.md %}).
+howto-write-book/content.md %}#exercises).
 
 В конечном счете косвенная коммерциализация ориентирована на то, чтобы
 продавать не саму книгу, а то, с чем эта книга связана.  А это уже

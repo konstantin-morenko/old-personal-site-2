@@ -1,9 +1,6 @@
 ---
 title: Умение излагать свои мысли на бумаге
 keywords: писать, излагать, мышление
-folder: howto-write-book
-nextlink: howto-write-book/brainstorm.md
-prevlink: howto-write-book/quality-management.md
 needupdate: [Добавить ссылку на интервальный метод, Перечитать]
 ---
 
