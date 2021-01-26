@@ -2,6 +2,7 @@
 title: Обратная связь с автором
 nextlink: howto-write-book/cross-modal-links.md
 prevlink: howto-write-book/book-history.md
+needupdate: [Использовать электронную почту для связи из-за глубокой работы]
 ---
 
 Сейчас мы рассматриваем форму для обратной связи с автором с сайта,
