@@ -77,3 +77,11 @@
     mdlink: howto-write-book/landing.md
     state: idea
     updated: 2020-12-01
+
+  - name: Как развить навык
+    description: |
+      Самые разные записки обо всем, что может помочь в освоении новых способов взаимодействия с окружающим миром.  Как научиться чему-то новому и сделать это эффективно.
+    tags: [book, web]
+    mdlink: make-skill/landing.md
+    state: idea
+    updated: 2021-01-26

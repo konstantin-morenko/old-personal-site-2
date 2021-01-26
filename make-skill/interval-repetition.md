@@ -1,6 +1,7 @@
 ---
 title: Интервальное повторение
 needwrite: true
+ntplinks: false
 ---
 
 ## Исторический аспект
