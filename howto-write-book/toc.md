@@ -159,13 +159,13 @@ ntplinks: false
 * [Коммерциализация книги]({% link howto-write-book/commerc.md %})
   * [Пожертвования]({% link howto-write-book/donations.md %})
   * [Прямая коммерциализация]({% link howto-write-book/commerc-direct.md %})
-  * [Косвенная коммерциализация](commers-indirect.md)
-  * [Побочные выгоды](side-effects.md)
+  * [Косвенная коммерциализация]({% link howto-write-book/commerc-indirect.md %})
+  * [Побочные выгоды]({% link howto-write-book/side-effects.md %})
 * [Файлы]({% link howto-write-book/files.md %})
 
 ## Конечная точка: заключение
 
-* [Обобщенный вид процесса написания книги](common-process.md)
+* [Обобщенный вид процесса написания книги]({% link howto-write-book/common-process.md %})
 * Сувениры
   * [План *этой* книги](/htwb_this_plan.md)
   * [Отзыв автора](/htwb_author_feedback.md)

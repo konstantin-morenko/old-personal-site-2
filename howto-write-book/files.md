@@ -1,8 +1,7 @@
 ---
 title: Файлы к книге
-folder: howto-write-book
-nextlink: howto-write-book/image-processor.md
-prevlink: howto-write-book/making-toc.md
+nextlink: howto-write-book/common-process.md
+prevlink: howto-write-book/side-effects.md
 last_updated: 2020-12-18
-needupdate: []
+needwrite: true
 ---
