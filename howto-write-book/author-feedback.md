@@ -1,5 +1,8 @@
-
-# Отзыв автора
+---
+title: Отзыв автора
+nextlink: howto-write-book/feedback.md
+prevlink: howto-write-book/this-plan.md
+---
 
 Эта глава в книге не совсем обычная.  Здесь я расскажу о своем опыте и
 процессе написания *этой* книги.

@@ -167,9 +167,9 @@ ntplinks: false
 
 * [Обобщенный вид процесса написания книги]({% link howto-write-book/common-process.md %})
 * Сувениры
-  * [План *этой* книги](/htwb_this_plan.md)
-  * [Отзыв автора](/htwb_author_feedback.md)
-  * [Обратная связь](feedback.md)
+  * [План *этой* книги]({% link howto-write-book/this-plan.md %})
+  * [Отзыв автора]({% link howto-write-book/author-feedback.md %})
+  * [Обратная связь]({% link howto-write-book/feedback.md %})
   * [Время написания этой книги](book-timeline.md)
 
 {::comment}
