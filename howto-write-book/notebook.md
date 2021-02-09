@@ -27,7 +27,7 @@ last_updated: 2020-12-14
 [вдохновение]({% link howto-write-book/inspiration.md %}) приходит в
 тот момент, когда самой книги нет под рукой.  В блокноте можно делать
 зарисовки обложки, если Вы сами разрабатываете [обложку]({% link
-howto-write-book/pics.md %}#cover) для книги.
+howto-write-book/styling-book.md %}#cover) для книги.
 
 ## Размер блокнота
 

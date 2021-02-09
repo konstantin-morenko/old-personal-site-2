@@ -60,7 +60,7 @@ ntplinks: false
   * [Глоссарий]({% link howto-write-book/content.md %}#glossary)
   * [Указатель]({% link howto-write-book/content.md %}#book-index)
 * [Оформление]({% link howto-write-book/styling-book.md %})
-  * [Иллюстрации]({% link howto-write-book/pics.md %})
+  * [Иллюстрации]({% link howto-write-book/styling-book.md %}#pics)
 * [Дополнительные источники информации]({% link howto-write-book/resources.md %})
 * [Об авторе]({% link howto-write-book/about-author.md %})
 

@@ -1,8 +1,5 @@
 ---
 title: Об авторе
-folder: howto-write-book
-nextlink: howto-write-book/why.md
-prevlink: howto-write-book/resources.md
 ---
 
 Этот раздел часто размещается на последней обложке книги, рядом с
@@ -15,4 +12,4 @@ prevlink: howto-write-book/resources.md
 достижений.  Объем этого раздела, когда он помещается на последней
 странице обычно составляет не более одного абзаца, хотя может занимать
 и всю страницу в зависимости от количества материала и [дизайна
-обложки]({% link howto-write-book/pics.md%}#cover) книги.
+обложки]({% link howto-write-book/styling-book.md%}#cover) книги.

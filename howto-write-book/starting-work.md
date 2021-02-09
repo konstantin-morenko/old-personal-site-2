@@ -7,7 +7,7 @@ prevlink: howto-write-book/writing-session.md
 В любом случае, прежде чем начать [писать текст]({% link
 howto-write-book/text-writing.md %}), [редактировать]({% link
 howto-write-book/editing.md %}) или рисовать [иллюстрации]({% link
-howto-write-book/pics.md %}) для книги, нужно «настроиться» на работу.
+howto-write-book/styling-book.md %}#pics) для книги, нужно «настроиться» на работу.
 В общем смысле это означает «поймать [вдохновение]({% link
 howto-write-book/inspiration.md %})».  Для большинства людей
 вдохновение представляется мистической сущностью, но для писателя

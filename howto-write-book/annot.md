@@ -1,8 +1,5 @@
 ---
 title: Аннотация
-folder: howto-write-book
-nextlink: howto-write-book/introduction.md
-prevlink: howto-write-book/title.md
 ---
 
 Хотя немногие люди действительно читают аннотацию к книге, она

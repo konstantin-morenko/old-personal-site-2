@@ -1,8 +1,5 @@
 ---
 title: Дополнительные источники информации
-folder: howto-write-book
-nextlink: howto-write-book/about-author.md
-prevlink: howto-write-book/pics.md
 ---
 
 Для художественной книги дополнительная литература не имеет смысла, а

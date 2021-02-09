@@ -1,12 +1,9 @@
 ---
 title: Название книги
-folder: howto-write-book
-nextlink: howto-write-book/annot.md
-prevlink: howto-write-book/book-parts.md
 needupdate: [Ссылка на мнемотехнику, Описать удельную и полную нагрузку]
 ---
 
-Наравне с [иллюстрацией обложки]({% link howto-write-book/pics.md
+Наравне с [иллюстрацией обложки]({% link howto-write-book/styling-book.md
 %}#cover), название является первым, с чем встречается читатель.
 Кроме иллюстрации, в современном мире при *поиске* книг именно
 название является тем набором ключевых слов, которые будут искать; это

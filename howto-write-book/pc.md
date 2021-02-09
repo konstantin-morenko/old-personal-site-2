@@ -42,7 +42,7 @@ howto-write-book/backup.md %}) своей книги.
   howto-write-book/text-processor.md %}), а так же
 - хранить и сравнивать [различные версии текстов]({% link
   howto-write-book/versions.md %}) (например, после редактуры);
-- оформлять [рисунки]({% link howto-write-book/pics.md %}) для книги;
+- оформлять [рисунки]({% link howto-write-book/styling-book.md %}#pics) для книги;
 - хранить информацию о [писательском дневнике]({% link
   howto-write-book/diary.md %});
 - в случае с ноутбуком все перечисленные опции оказываются доступными
