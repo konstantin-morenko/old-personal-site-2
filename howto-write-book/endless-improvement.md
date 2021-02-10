@@ -1,7 +1,5 @@
 ---
 title: Бесконечное совершенствование
-nextlink: howto-write-book/writing-down-ideas.md
-prevlink: howto-write-book/ending-work.md
 ---
 
 Каждый автор, особенно который выпускает свою первую книгу, стремится

@@ -1,8 +1,6 @@
 ---
 title: Мотивация
 last_updated: 2021-01-01
-nextlink: howto-write-book/want-to-quit.md
-prevlink: howto-write-book/habit.md
 needupdate: [Объединить с Зачем эта книга]
 ---
 

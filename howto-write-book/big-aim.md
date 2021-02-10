@@ -1,7 +1,5 @@
 ---
 title: Большая цель
-nextlink: howto-write-book/studying-books.md
-prevlink: howto-write-book/freewriting.md
 ---
 
 Очень легко думать о книге в рамках исключительно текста.  Но полезно

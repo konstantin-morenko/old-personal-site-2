@@ -1,7 +1,5 @@
 ---
 title: Как придумать идею для книги
-nextlink: howto-write-book/when-ideas-came.md
-prevlink: howto-write-book/start.md
 ---
 
 Бывает две ситуации:

@@ -1,7 +1,5 @@
 ---
 title: Когда приходят идеи
-nextlink: howto-write-book/idea-to-toc.md
-prevlink: howto-write-book/book-idea.md
 needupdate: [Ссылка на книгу по мнемотехнике]
 ---
 

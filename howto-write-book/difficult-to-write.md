@@ -1,8 +1,5 @@
 ---
 title: Трудность с написанием текста
-folder: howto-write-book
-nextlink: howto-write-book/habit.md
-prevlink: howto-write-book/skills-beliefs-values.md
 ---
 
 Бывает так, что людям трудно выражать свои мысли на бумаге.  Причин

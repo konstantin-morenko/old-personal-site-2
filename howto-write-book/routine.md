@@ -1,7 +1,5 @@
 ---
 title: Режим работы над книгой
-nextlink: howto-write-book/time-intensity.md
-prevlink: howto-write-book/toc-to-content.md
 ---
 
 > Всякий может написать повесть, пусть даже плохую; но написать роман

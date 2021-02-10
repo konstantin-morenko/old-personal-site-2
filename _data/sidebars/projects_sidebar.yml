@@ -1,0 +1,48 @@
+# This is your sidebar TOC. The sidebar code loops through sections here and provides the appropriate formatting.
+
+entries:
+- title: Навигация
+  folders:
+
+  - title: Сайт и я
+    folderitems:
+    - title: Новости
+      url: /news/landing.html
+    - title: Организация страниц
+      url: /site_organization.html
+    - title: Исходный шаблон темы оформления
+      external_url: https://idratherbewriting.com/documentation-theme-jekyll/index.html
+    - title: Jekyll
+      external_url: https://jekyllrb.com/docs/home/
+    - title: Обратная связь
+      url: /feedback.html
+    - title: Полный список проектов
+      url: /all-projects.html
+
+  - title: Наука
+    folderitems:
+    - title: Шаблоны для научной деятельности
+      url: /science_templates.html
+
+  - title: Компьютер
+    folderitems:
+    - title: Офис
+      url: /soft/office/landing.html
+
+  - title: Заметки и наброски
+    folderitems:
+    - title: 365 дней
+      url: /365-days/landing.html
+
+  - title: Бизнес-литература
+    folderitems:
+    - title: Как написать книгу
+      url: /howto-write-book/landing.html
+    - title: Как развить навык
+      url: /make-skill/landing.html
+
+  - title: Другие проекты
+    folderitems:
+    - title: Все об Anki
+      url: /anki/landing.html
+

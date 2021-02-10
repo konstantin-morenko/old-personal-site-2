@@ -28,7 +28,7 @@ prevlink: howto-write-book/smiling.md
 фильмов или сериалов, остается только перенести его на процесс
 написания книги.  А дальше все просто: устанавливаем таймер на 20-30
 минут и вперед, к следующей странице.  В это же время полезно
-[настраиваться]({% link howto-write-book/starting-work.md %}) на
+[настраиваться]({% link howto-write-book/writing-session.md %}#starting-work) на
 состояние, в котором пишутся «хорошие» тексты.
 
 {{ site.data.alerts.end }}

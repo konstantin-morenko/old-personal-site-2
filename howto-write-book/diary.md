@@ -89,7 +89,7 @@ howto-write-book/ending-work.md %}) подводят своеобразный и
   нового я узнал о деле написания книги, что мне может пригодится
   сегодня?*
 
-- [Настрой на работу]({% link howto-write-book/starting-work.md %}) :
+- [Настрой на работу]({% link howto-write-book/writing-session.md %}#starting-work) :
   *проверить, что я просмотрел содержание, заполнил дневник*
 
 - [Написание текста]({% link howto-write-book/text-writing.md %}) :

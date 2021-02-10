@@ -1,7 +1,5 @@
 ---
 title: От оглавления к содержанию
-nextlink: howto-write-book/routine.md
-prevlink: howto-write-book/readers.md
 needupdate: [Ссылка на 365 дней]
 ---
 

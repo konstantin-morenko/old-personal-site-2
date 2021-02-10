@@ -1,8 +1,5 @@
 ---
 title: Страхи
-folder: howto-write-book
-nextlink: howto-write-book/process-result.md
-prevlink: howto-write-book/inspiration.md
 needwrite: true
 ---
 

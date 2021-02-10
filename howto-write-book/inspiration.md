@@ -1,8 +1,5 @@
 ---
 title: Вдохновение
-folder: howto-write-book
-nextlink: howto-write-book/why.md
-prevlink: howto-write-book/fears.md
 needupdate: []
 ---
 

@@ -1,7 +1,5 @@
 ---
 title: Подбор материала
-nextlink: howto-write-book/editing.md
-prevlink: howto-write-book/diluted-text.md
 ---
 
 Подбор материала характерен не только для научно-популярных книг,

@@ -1,8 +1,5 @@
 ---
 title: Причины
-folder: howto-write-book
-nextlink: howto-write-book/inspiration.md
-prevlink: howto-write-book/about-author.md
 needupdate: [Ссылка на личную библиотеку]
 ---
 
