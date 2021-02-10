@@ -1,6 +1,5 @@
 ---
 title: Архив новостей
-sidebar: mydoc_sidebar
 keywords: news, blog, updates, release notes, announcements
 permalink: /news/archive.html
 toc: false

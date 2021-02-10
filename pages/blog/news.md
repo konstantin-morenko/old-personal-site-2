@@ -1,6 +1,5 @@
 ---
 title: Новости
-sidebar: home_sidebar
 keywords: news, blog, updates, release notes, announcements
 permalink: /news/landing.html
 toc: false
