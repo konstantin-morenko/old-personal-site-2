@@ -1,7 +1,5 @@
 ---
 title: Косвенная коммерциализация
-nextlink: howto-write-book/side-effects.md
-prevlink: howto-write-book/commerc-direct.md
 ---
 
 Совсем не обязательно, чтобы книга была сама по себе коммерчески
@@ -12,7 +10,7 @@ prevlink: howto-write-book/commerc-direct.md
 
 Книга может быть отличным приложением к авторскому курсу и содержать
 [дополнительные материалы]({% link
-howto-write-book/additional-materials.md %}) и [упражнения]({% link
+howto-write-book/book-site.md %}#additional-materials) и [упражнения]({% link
 howto-write-book/content.md %}#exercises).
 
 В конечном счете косвенная коммерциализация ориентирована на то, чтобы

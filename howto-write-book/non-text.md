@@ -1,7 +1,5 @@
 ---
 title: Нетекстовые материалы
-nextlink: howto-write-book/group-session.md
-prevlink: howto-write-book/modal-types.md
 needwrite: true
 needupdate: [Ссылка на работу с изображениями и таблицами]
 ---

@@ -1,7 +1,5 @@
 ---
 title: Перерывы во время работы
-nextlink: howto-write-book/publication.md
-prevlink: howto-write-book/dynamic-group.md
 needupdate: [Добавить ссылку на книгу интервальной работы, Ссылка на Одну вещь]
 ---
 

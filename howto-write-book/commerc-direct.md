@@ -1,6 +1,6 @@
 ---
 title: Прямая коммерциализация
-nextlink: howto-write-book/commerc-indirect
+nextlink: howto-write-book/commerc-indirect.md
 prevlink: howto-write-book/donations.md
 ---
 
@@ -12,7 +12,7 @@ prevlink: howto-write-book/donations.md
 В этих случаях книга как может содержать *только* тот же материал,
 который присутствует на сайте, так и быть *расширенной*: с
 [дополнительными материалами]({% link
-howto-write-book/additional-materials.md %}), с упражнениями и прочим.
+howto-write-book/book-site.md %}#additional-materials), с упражнениями и прочим.
 В своем проекте [365 дней]({% link 365-days/landing.md %}) я
 планировал выпустить книгу с эксклюзивными авторскими комментариями к
 каждой статье, всего эти комментарии должны были добавить около
