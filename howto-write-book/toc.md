@@ -147,7 +147,7 @@ ntplinks: false
       * [Физические упражнения]({% link howto-write-book/day-schedule.md %}#phys)
         * [Пешие прогулки]({% link howto-write-book/day-schedule.md %}#walks)
       * [Работа со стрессами]({% link howto-write-book/stresses.md %})
-        * [Улыбаться]({% link howto-write-book/smiling.md %})
+        * [Улыбаться]({% link howto-write-book/stresses.md %}#smiling)
       * [Психоэмоциональное состояние]({% link howto-write-book/psycho.md %})
       * [Чтение]({% link howto-write-book/reading.md %})
       * [Достаточное питание]({% link howto-write-book/meals.md %})
@@ -157,20 +157,20 @@ ntplinks: false
 * [Правки после завершения]({% link howto-write-book/after-publication-edits.md %})
 * [Переиздание]({% link howto-write-book/re-edition.md %})
 * [Коммерциализация книги]({% link howto-write-book/commerc.md %})
-  * [Пожертвования]({% link howto-write-book/donations.md %})
-  * [Прямая коммерциализация]({% link howto-write-book/commerc-direct.md %})
-  * [Косвенная коммерциализация]({% link howto-write-book/commerc-indirect.md %})
-  * [Побочные выгоды]({% link howto-write-book/side-effects.md %})
+  * [Пожертвования]({% link howto-write-book/commerc.md %}#donations)
+  * [Прямая коммерциализация]({% link howto-write-book/commerc.md %}#commerc-direct)
+  * [Косвенная коммерциализация]({% link howto-write-book/commerc.md %}#commerc-indirect)
+  * [Побочные выгоды]({% link howto-write-book/commerc.md %}#side-effects)
 * [Файлы]({% link howto-write-book/files.md %})
 
 ## Конечная точка: заключение
 
 * [Обобщенный вид процесса написания книги]({% link howto-write-book/common-process.md %})
 * Сувениры
-  * [План *этой* книги]({% link howto-write-book/this-plan.md %})
-  * [Отзыв автора]({% link howto-write-book/author-feedback.md %})
-  * [Обратная связь]({% link howto-write-book/feedback.md %})
-  * [Время написания этой книги](book-timeline.md)
+  * [План *этой* книги]({% link howto-write-book/souvenirs.md %}#this-plan)
+  * [Отзыв автора]({% link howto-write-book/souvenirs.md %}#author-feedback)
+  * [Обратная связь]({% link howto-write-book/souvenirs.md %}#feedback)
+  * [Время написания этой книги]({% link howto-write-book/souvenirs.md %}#book-timeline)
 
 {::comment}
 ;;; Local Variables:

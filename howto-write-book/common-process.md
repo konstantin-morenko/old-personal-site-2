@@ -1,7 +1,5 @@
 ---
 title: Обобщенный вид процесса написания книги
-nextlink: howto-write-book/this-plan.md
-prevlink: howto-write-book/files.md
 ---
 
 Чтобы написать книгу, недостаточно прость сидеть и набирать текст.

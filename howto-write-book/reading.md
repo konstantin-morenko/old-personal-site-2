@@ -1,7 +1,6 @@
 ---
 title: Чтение
-nextlink: howto-write-book/meals.md
-prevlink: howto-write-book/psycho.md
+needupdate: [Ссылка на Как читать книги]
 ---
 
 Чтение является очень важным фактором в деле написания книг.  И дело

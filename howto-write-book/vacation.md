@@ -1,7 +1,5 @@
 ---
 title: Перерывы в работе
-nextlink: howto-write-book/style.md
-prevlink: howto-write-book/meals.md
 ---
 
 Бывает такая ситуация, когда по определенным причинам нужно сделать

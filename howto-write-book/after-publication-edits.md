@@ -1,7 +1,5 @@
 ---
 title: Правки после завершения
-nextlink: howto-write-book/re-edition.md
-prevlink: howto-write-book/experience.md
 ---
 
 Такая ситуация возникает почти всегда: после того, как книга издана,

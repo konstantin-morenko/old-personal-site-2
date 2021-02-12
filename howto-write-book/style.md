@@ -1,7 +1,5 @@
 ---
 title: Стиль книги
-nextlink: howto-write-book/experience.md
-prevlink: howto-write-book/vacation.md
 ---
 
 ## Стиль текста

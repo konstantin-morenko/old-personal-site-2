@@ -1,7 +1,5 @@
 ---
 title: Собственный опыт
-nextlink: howto-write-book/after-publication-edits.md
-prevlink: howto-write-book/style.md
 ---
 
 Очень часто в процессе написания книги, когда подбираешь материал,

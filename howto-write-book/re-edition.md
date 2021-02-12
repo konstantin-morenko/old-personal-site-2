@@ -1,7 +1,5 @@
 ---
 title: Переиздание
-nextlink: howto-write-book/commerc.md
-prevlink: howto-write-book/after-publication-edits.md
 ---
 
 После того, как книга будет завершена и издана, кажется, что все
