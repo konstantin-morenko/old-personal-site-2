@@ -1,7 +1,5 @@
 ---
 title: Работа над повышением качества
-nextlink: howto-write-book/ending-work.md
-prevlink: howto-write-book/backup.md
 ---
 
 В [принципах качества]({% link howto-write-book/quality-management.md

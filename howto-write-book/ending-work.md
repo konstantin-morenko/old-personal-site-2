@@ -1,7 +1,5 @@
 ---
 title: Завершение сеанса работы
-nextlink: howto-write-book/endless-improvement.md
-prevlink: howto-write-book/quality-improvement.md
 needupdate: [Добавить резервирование в конце]
 ---
 

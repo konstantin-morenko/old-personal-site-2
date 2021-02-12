@@ -1,7 +1,5 @@
 ---
 title: Записывать идеи
-nextlink: howto-write-book/sketch.md
-prevlink: howto-write-book/endless-improvement.md
 needwrite: true
 ---
 
@@ -32,3 +30,5 @@ howto-write-book/notebook.md %}).  Многие идеи могут оказат
 серий книг.
 
 ## Промежуточные идеи
+
+## Важность рисунков {#sketch}

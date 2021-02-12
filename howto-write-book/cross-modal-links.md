@@ -1,7 +1,5 @@
 ---
 title: Перекрестная связь сайта и печатной (электронной) книги
-nextlink: howto-write-book/promotion.md
-prevlink: howto-write-book/site-feedback.md
 ---
 
 [Перекрестные ссылки]({% link howto-write-book/content.md %}#cross-links)
