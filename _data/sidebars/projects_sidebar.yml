@@ -24,6 +24,11 @@ entries:
     - title: Шаблоны для научной деятельности
       url: /science_templates.html
 
+  - title: Образование
+    folderitems:
+    - title: Коммерциализация научных разработок
+      url: /education/science-commerc/landing.html
+
   - title: Компьютер
     folderitems:
     - title: Офис
