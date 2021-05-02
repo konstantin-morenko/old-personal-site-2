@@ -7,6 +7,8 @@ ntplinks: false
 needwrite: true
 ---
 
+![Обложка](/howto-write-book/images/cover.png)
+
 ## Подробнее о книге
 
 Трудно ли написать книгу, когда есть идея?  Трудно, если не знаешь,
