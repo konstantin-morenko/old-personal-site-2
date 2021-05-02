@@ -6,6 +6,16 @@ entries:
   version: 1.0.0
   folders:
 
+  - title: Помочь проекту
+    folderitems:
+
+    - title: Пожертвования
+      url: /howto-write-book/donation.html
+
+    - title: Купить книгу
+      url: /howto-write-book/landing.html
+
+
   - title: Введение
     folderitems:
 
