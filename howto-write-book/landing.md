@@ -20,12 +20,11 @@ needwrite: true
 
 [Перейти к содержанию]({% link howto-write-book/toc.md %})
 
-[Начать читать с начала]
+## Где купить
 
-## О проекте
-
-## Поддержка и прочее
-
-[Купить]
-
-[Донат]
+Вы можете купить книгу в следующих магазинах:
+- [Ridero](https://ridero.ru/books/kak_napisat_knigu_2/) (предпочтительно)
+- [Amazon](http://www.amazon.com/dp/B07DKDNFNZ)
+- [Ozon](http://www.ozon.ru/context/detail/id/160373377/)
+- [ЛитРес](http://www.litres.ru/konstantin-morenko/kak-napisat-knigu/)
+- [AliExpress](https://aliexpress.com/item/1005001925552128.html)
