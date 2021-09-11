@@ -18,6 +18,8 @@ entries:
       url: /feedback.html
     - title: Полный список проектов
       url: /all-projects.html
+    - title: Мои дипломы
+      url: /myself/diplomas.html
 
   - title: Наука
     folderitems:
