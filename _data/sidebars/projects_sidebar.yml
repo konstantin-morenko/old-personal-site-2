@@ -30,6 +30,8 @@ entries:
     folderitems:
     - title: Коммерциализация научных разработок
       url: /education/science-commerc/landing.html
+    - title: Управление проектами и процессами
+      external_url: https://konstantin-morenko.ru/masters-project-management/
 
   - title: Компьютер
     folderitems:
